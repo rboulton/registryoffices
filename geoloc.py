@@ -4,6 +4,16 @@ import urllib
 import urllib2
 import simplejson
 import private_passwords
+import threading
+import csv
+
+cache = {}
+cache_lock = threading.Lock()
+cache_file = 'locations.csv'
+cache_fd = open(cache_file, 'a+')
+cache_dump_writer = csv.writer(cache_fd)
+for row in csv.reader(open(cache_file)):
+    cache[row[0]] = row[1:]
 
 def fetch(url, params):
     url += '?' + urllib.urlencode(params)
@@ -37,13 +47,30 @@ def get_loc(location):
     longitude, latitude, height = location["Placemark"][0]["Point"]["coordinates"]
     if longitude is None:
         return None, None
-    return str(longitude), str(latitude)   
+    return str(longitude), str(latitude)
+
+def cached_get_loc(loc):
+    cache_lock.acquire()
+    try:
+        try:
+            coords = cache[loc]
+        except KeyError:
+            cache_lock.release()
+            try:
+                coords = get_loc(loc)
+            finally:
+                cache_lock.acquire()
+            cache[loc] = coords
+            cache_dump_writer.writerow((loc, coords[0], coords[1]))
+        return coords
+    finally:
+        cache_lock.release()
 
 def get(loc1, loc2=None):
-    loc = get_loc(loc1)
+    loc = cached_get_loc(loc1)
     if loc[0] is None:
         if loc2 is not None:
-            loc = get_loc(loc2)
+            loc = cached_get_loc(loc2)
     return loc
 
 if __name__ == '__main__':
