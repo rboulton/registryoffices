@@ -4,7 +4,7 @@ import geoloc
 import parse_groni
 import parse_groenwales
 try:
-    from simplejson import json
+    import simplejson as json
 except ImportError:
     import json
 
