@@ -5,6 +5,7 @@ import urllib2
 import simplejson
 import private_passwords
 import threading
+import time
 import csv
 
 cache = {}
@@ -25,6 +26,7 @@ def get_loc(location):
     """Get the (longitude, latitude) for a postcode.
 
     """
+    time.sleep(0.5)
     url = "http://maps.google.com/maps/geo"
     if not location.lower().endswith('uk'):
         location += ', UK'
