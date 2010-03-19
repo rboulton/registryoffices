@@ -1,7 +1,10 @@
 #!/usr/bin/env python
 
 import xappy
-import json
+try:
+    import simplejson as json
+except ImportError:
+    import json
 
 def build(indexpath, jsonpath):
     conn = xappy.IndexerConnection(indexpath)

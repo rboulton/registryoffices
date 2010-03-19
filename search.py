@@ -1,8 +1,11 @@
 #!/usr/bin/env python
 
 import xappy
-import json
 import geoloc
+try:
+    import simplejson as json
+except ImportError:
+    import json
 
 def search(indexpath, loc1, loc2=None):
     loc = geoloc.get(loc1, loc2)
