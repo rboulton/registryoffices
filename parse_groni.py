@@ -15,6 +15,9 @@ except ImportError:
 nameend_re = re.compile(',\s*$')
 address_re = re.compile(',\s*')
 postcode_re = re.compile('\.\s*$')
+email_re = re.compile('email:\s*')
+tel_re = re.compile('Tel:\s*([0-9 /]+)')
+fax_re = re.compile('Fax:\s*([0-9 /]+)')
 
 def parse(data):
     soup = BeautifulSoup.BeautifulSoup(data,
@@ -26,22 +29,23 @@ def parse(data):
         name = nameend_re.sub('', name)
         tags = tag.findNextSiblings('p', limit=4)
         tag = [tag.string for tag in tags]
-        address = address_re.split(tag[0])
-        postcode = address[-1]
-        address = ', '.join(address[:-1])
-        postcode = postcode_re.sub('', postcode)
-        telephone = tag[1]
-        hours = tag[2]
-        email = tag[3]
+        vals = {}
 
-        data.append({
-            'name': name,
-            'address': address,
-            'postcode': postcode,
-            'telephone': telephone,
-            'hours': hours,
-            'email': email,
-        })
+        vals['name'] = name
+        address = address_re.split(tag[0])
+        vals['postcode'] = postcode_re.sub('', address[-1])
+        vals['address'] = ', '.join(address[:-1])
+        telephone = tag[1]
+        tel_mo = tel_re.search(telephone)
+        if tel_mo:
+            vals['tel'] = tel_mo.group(1).strip()
+        fax_mo = fax_re.search(telephone)
+        if fax_mo:
+            vals['fax'] = fax_mo.group(1).strip()
+        vals['hours'] = tag[2]
+        vals['email'] = email_re.sub('', tag[3])
+
+        data.append(vals)
     return data
 
 def get():
