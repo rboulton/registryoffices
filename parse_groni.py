@@ -33,8 +33,13 @@ def parse(data):
 
         vals['name'] = name
         address = address_re.split(tag[0])
-        vals['postcode'] = postcode_re.sub('', address[-1])
-        vals['address'] = ', '.join(address[:-1])
+        postcodebits = postcode_re.sub('', address[-1]).split()
+        address = address[:-1]
+        if len(postcodebits) > 2:
+            address.append(' '.join(postcodebits[:-2]))
+            postcodebits = postcodebits[-2:]
+        vals['postcode'] = ' '.join(postcodebits)
+        vals['address'] = ', '.join(address)
         telephone = tag[1]
         tel_mo = tel_re.search(telephone)
         if tel_mo:
