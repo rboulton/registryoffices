@@ -11,7 +11,7 @@ def fetch(url, params):
     json = simplejson.loads(result)
     return json
                  
-def get(location):
+def get_loc(location):
     """Get the (longitude, latitude) for a postcode.
 
     """
@@ -32,8 +32,17 @@ def get(location):
     if country_code != "GB":
 	return None, None
     longitude, latitude, height = location["Placemark"][0]["Point"]["coordinates"]
+    if longitude is None:
+        return None, None
     return str(longitude), str(latitude)   
 
+def get(loc1, loc2=None):
+    loc = get_loc(loc1)
+    if loc[0] is None:
+        if loc2 is not None:
+            loc = get_loc(loc2)
+    return loc
+
 if __name__ == '__main__':
-    print get_geolocation('cb224qn')
-    print get_geolocation('58 Kingsway, Duxford')
+    print get('cb224qn')
+    print get('58 Kingsway, Duxford')
