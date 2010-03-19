@@ -39,16 +39,16 @@ def get_loc(location):
     location = fetch(url, params)
     status = location["Status"]["code"]
     if status != 200:
-        return None, None
+        return '', ''
     try:
         country_code = location["Placemark"][0]["AddressDetails"]["Country"]["CountryNameCode"]
         if country_code != "GB":
-	    return None, None
+	    return '', ''
     except KeyError:
         pass
     longitude, latitude, height = location["Placemark"][0]["Point"]["coordinates"]
     if longitude is None:
-        return None, None
+        return '', ''
     return str(longitude), str(latitude)
 
 def cached_get_loc(loc):
@@ -70,7 +70,7 @@ def cached_get_loc(loc):
 
 def get(loc1, loc2=None):
     loc = cached_get_loc(loc1)
-    if loc[0] is None:
+    if loc[0] == '':
         if loc2 is not None:
             loc = cached_get_loc(loc2)
     return loc
