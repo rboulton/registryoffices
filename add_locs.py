@@ -3,7 +3,10 @@
 import geoloc
 import parse_groni
 import parse_groenwales
-import json
+try:
+    from simplejson import json
+except ImportError:
+    import json
 
 def parseall():
     for item in parse_groni.get():
