@@ -336,5 +336,1919 @@
   ], 
   "address": "District Council Offices, 47 Derry Road, Strabane", 
   "email": "ethompson@strabanedc.com"
+ }, 
+ {
+  "name": "Bedfordshire County Council", 
+  "url": "http://www.bedfordshire.gov.uk/AdviceAndBenefits/RegistrationOfBirthsMarriagesAndDeaths/RegistrationOfBirthsMarriagesAndDeaths.aspx", 
+  "postcode": "MK42 9AP", 
+  "longlat": [
+   "-0.4694078", 
+   "52.1318155"
+  ], 
+  "address": "Town Hall, Cauldwell Street, Bedford", 
+  "GRO LAID": "9"
+ }, 
+ {
+  "name": "Buckinghamshire County Council", 
+  "url": "http://www.buckscc.gov.uk/registration/index.stm", 
+  "postcode": "HP20 1XF", 
+  "longlat": [
+   "-0.807856", 
+   "51.812194"
+  ], 
+  "address": "County Hall, Walton Street, Aylesbury", 
+  "GRO LAID": "11"
+ }, 
+ {
+  "name": "Cambridgeshire County Council", 
+  "url": "http://www.cambridgeshire.gov.uk/community/bmd/", 
+  "postcode": "CB3 0A", 
+  "longlat": [
+   "0.1312368", 
+   "52.2025441"
+  ], 
+  "address": "Shire Hall, Castle Hill, Cambridge", 
+  "GRO LAID": "12"
+ }, 
+ {
+  "name": "Cornwall Council", 
+  "url": "http://www.cornwall.gov.uk/registration", 
+  "postcode": "TR1 3AY", 
+  "longlat": [
+   "-5.066071", 
+   "50.260117"
+  ], 
+  "address": "County Hall, Treyew Road, Truro", 
+  "GRO LAID": "15"
+ }, 
+ {
+  "name": "Cumbria County Council", 
+  "url": "http://www.cumbria.gov.uk/registration/wheretofindus/default.asp", 
+  "postcode": "CA3 8NA", 
+  "longlat": [
+   "-2.934502", 
+   "54.892718"
+  ], 
+  "address": "The Courts, English Street, Carlisle", 
+  "GRO LAID": "16"
+ }, 
+ {
+  "name": "Derbyshire County Council", 
+  "url": "http://www.derbyshire.gov.uk/community/births_marriages_deaths/", 
+  "postcode": "DE4 3A", 
+  "longlat": [
+   "-1.55087", 
+   "53.14222"
+  ], 
+  "address": "County Hall, Matlock, ", 
+  "GRO LAID": "17"
+ }, 
+ {
+  "name": "Devon County Council", 
+  "url": "http://www.devon.gov.uk/index/community/the_people/registration_districts_in_devon.htm", 
+  "postcode": "EX2 4QD", 
+  "longlat": [
+   "-3.51913", 
+   "50.71422"
+  ], 
+  "address": "County Hall, Exeter, Devon", 
+  "GRO LAID": "18"
+ }, 
+ {
+  "name": "Dorset County Council", 
+  "url": "http://www.dorsetforyou.com/index.jsp?articleid=384327", 
+  "postcode": "DT1 1XJ", 
+  "longlat": [
+   "-2.434011", 
+   "50.7107"
+  ], 
+  "address": "County Hall, Colliton Park, Dorchester", 
+  "GRO LAID": "19"
+ }, 
+ {
+  "name": "Durham Council", 
+  "url": "http://www.durham.gov.uk/durhamcc/usp.nsf/pws/Registrar+-+Register+Office+locations+and+contact+details", 
+  "postcode": "DH1 3HN", 
+  "longlat": [
+   "-1.5690729", 
+   "54.7750087"
+  ], 
+  "address": "40 Old Elvet, Durham City, ", 
+  "GRO LAID": "20"
+ }, 
+ {
+  "name": "East Sussex County Council", 
+  "url": "http://www.eastsussex.gov.uk/community/", 
+  "postcode": "BN7 1UE", 
+  "longlat": [
+   "0.0178577", 
+   "50.8756293"
+  ], 
+  "address": "County Hall, St. Annes Cresent, Lewes", 
+  "GRO LAID": "21"
+ }, 
+ {
+  "name": "Essex County Council", 
+  "url": "http://www.essexcc.gov.uk/vip8/ecc/ECCWebsite/display/channels/births_marriages_deaths_channel_640771_Living/contacts/index.jsp", 
+  "postcode": "CM1 IGF", 
+  "longlat": [
+   "0.4705237", 
+   "51.7341945"
+  ], 
+  "address": "17 Market Road, Chelmsford, ", 
+  "GRO LAID": "22"
+ }, 
+ {
+  "name": "Gloucestershire County Council", 
+  "url": "http://www.gloucestershire.gov.uk/index.cfm?ArticleID=150", 
+  "postcode": "GL1 2TG", 
+  "longlat": [
+   "-2.2520291", 
+   "51.8678927"
+  ], 
+  "address": "Shire Hall, Westgate Street, Gloucester", 
+  "GRO LAID": "23"
+ }, 
+ {
+  "name": "Hampshire County Council", 
+  "url": "http://www3.hants.gov.uk/registration/registration-contact.htm", 
+  "postcode": "SO23 8ZB", 
+  "longlat": [
+   "-1.319368", 
+   "51.062549"
+  ], 
+  "address": "The Castle, Winchester, Hampshire", 
+  "GRO LAID": "24"
+ }, 
+ {
+  "name": "Hertfordshire County Council", 
+  "url": "http://www.hertsdirect.org/comdirectory/register/contactreg/", 
+  "postcode": "AL10 0NG", 
+  "longlat": [
+   "-0.3310489", 
+   "51.7535183"
+  ], 
+  "address": "19b St Albans Road East, Hatfield, Hertfordshire", 
+  "GRO LAID": "26"
+ }, 
+ {
+  "name": "Kent County Council", 
+  "url": "http://www.kent.gov.uk/Community/births-marriages-and-deaths/our-services/local-offices/", 
+  "postcode": "ME14 1XX", 
+  "longlat": [
+   "0.523841", 
+   "51.2703369"
+  ], 
+  "address": "Invicta House, County Hall, Maidstone", 
+  "GRO LAID": "29"
+ }, 
+ {
+  "name": "Lancashire County Council", 
+  "url": "http://www.lancashire.gov.uk/acs/sites/registration/contact/index.asp", 
+  "postcode": "PR1 8SE", 
+  "longlat": [
+   "-2.711639", 
+   "53.758134"
+  ], 
+  "address": "Bow Lane, PRESTON, ", 
+  "GRO LAID": "30"
+ }, 
+ {
+  "name": "Leicestershire County Council", 
+  "url": "http://www.leicestershire.gov.uk/registration_services", 
+  "postcode": "LE3 8RN", 
+  "longlat": [
+   "-1.19102", 
+   "52.65549"
+  ], 
+  "address": "County Hall, Glenfield, Leicester", 
+  "GRO LAID": "31"
+ }, 
+ {
+  "name": "Lincolnshire County Council", 
+  "url": "http://www.lincolnshire.gov.uk/index.asp?catId=2944", 
+  "postcode": "LN2 1NN", 
+  "longlat": [
+   "-0.5331422", 
+   "53.2324019"
+  ], 
+  "address": "4 Lindum Road, Lincoln, ", 
+  "GRO LAID": "32"
+ }, 
+ {
+  "name": "Norfolk County Council", 
+  "url": "http://www.norfolk.gov.uk/consumption/idcplg?IdcService=SS_GET_PAGE&ssDocName=NCC006792&ssSourceNodeId=&ssTargetNodeId=54", 
+  "postcode": "NR2 1NR", 
+  "longlat": [
+   "1.2876176", 
+   "52.629184"
+  ], 
+  "address": "Churchman House, 71 Bethel Street, Norwich", 
+  "GRO LAID": "33"
+ }, 
+ {
+  "name": "Northamptonshire County Council", 
+  "url": "http://www3.northamptonshire.gov.uk/Community/Registration/reg_home.htm", 
+  "postcode": "NN1 1UE", 
+  "longlat": [
+   "-0.8911748", 
+   "52.2359922"
+  ], 
+  "address": "Charles House, 61-69 Derngate, Northampton", 
+  "GRO LAID": "34"
+ }, 
+ {
+  "name": "Northumberland Council", 
+  "url": "http://www.northumberland.gov.uk/register/register-office.asp", 
+  "postcode": "NE61 1BU", 
+  "longlat": [
+   "-1.6929701", 
+   "55.17026"
+  ], 
+  "address": "94 New Gate Street, Morpeth, ", 
+  "GRO LAID": "35"
+ }, 
+ {
+  "name": "North Yorkshire County Council", 
+  "url": "http://www.northyorks.gov.uk/index.aspx?articleid=2849", 
+  "postcode": "HG1 5AG", 
+  "longlat": [
+   "-1.5274555", 
+   "53.9951766"
+  ], 
+  "address": "Bilton House, 31 Park Parade, Harrogate", 
+  "GRO LAID": "36"
+ }, 
+ {
+  "name": "Nottinghamshire County Council", 
+  "url": "http://www.nottinghamshire.gov.uk/home/youandyourcommunity/registrars/registeroffices.htm", 
+  "postcode": "NG4 3AR", 
+  "longlat": [
+   "-1.0811409", 
+   "52.9667846"
+  ], 
+  "address": "Fairdale House, 47 Station Road, Carlton", 
+  "GRO LAID": "37"
+ }, 
+ {
+  "name": "Oxfordshire County Council", 
+  "url": "http://www.oxfordshire.gov.uk/registration", 
+  "postcode": "OX1 1NS", 
+  "longlat": [
+   "-1.2640575", 
+   "51.752482"
+  ], 
+  "address": "1 Tidmarsh Lane, Oxford, ", 
+  "GRO LAID": "38"
+ }, 
+ {
+  "name": "Shropshire Council", 
+  "url": "http://www.shropshire.gov.uk/registrar.nsf/open/4F3206F3069D0B7780256D1E004B347D", 
+  "postcode": "SY2 5NY", 
+  "longlat": [
+   "-2.726205", 
+   "52.70423"
+  ], 
+  "address": "Column Lodge, Preston Street, Shrewsbury", 
+  "GRO LAID": "39"
+ }, 
+ {
+  "name": "Somerset County Council", 
+  "url": "http://www.somerset.gov.uk/somerset/resources/registrationservice/registerofficesandopeninghours/", 
+  "postcode": "TA1 4AQ", 
+  "longlat": [
+   "-3.104976", 
+   "51.01454"
+  ], 
+  "address": "The Old Municipal Buildings, Corporation Street, Taunton", 
+  "GRO LAID": "40"
+ }, 
+ {
+  "name": "Staffordshire County Council", 
+  "url": "http://www.staffordshire.gov.uk/community/lifeevents/registry/", 
+  "postcode": "ST16 2NG", 
+  "longlat": [
+   "-2.1153625", 
+   "52.8071771"
+  ], 
+  "address": "79 Eastgate Street, Stafford, Staffordshire", 
+  "GRO LAID": "41"
+ }, 
+ {
+  "name": "Suffolk County Council", 
+  "url": "http://www.suffolkcc.gov.uk/registerservice/other/about_suff_reg_off_grph.html", 
+  "postcode": "IP4 1LP", 
+  "longlat": [
+   "1.1630504", 
+   "52.056133"
+  ], 
+  "address": "St Peter House, 16 Grimwade Street, Ipswich", 
+  "GRO LAID": "42"
+ }, 
+ {
+  "name": "Surrey County Council", 
+  "url": "http://www.surreycc.gov.uk/sccwebsite/sccwspages.nsf/LookupWebPagesByTITLE_RTF/District+register+offices?opendocument", 
+  "postcode": "KT1 2DN", 
+  "longlat": [
+   "-0.3041346", 
+   "51.4046279"
+  ], 
+  "address": "County Hall, Penrhyn Road, Kingston upon Thames", 
+  "GRO LAID": "43"
+ }, 
+ {
+  "name": "Warwickshire County Council", 
+  "url": "http://www.warwickshire.gov.uk/Web/corporate/pages.nsf/links/55694AAF0C0A93D3802573840040895D ", 
+  "postcode": "CV34 4RR", 
+  "longlat": [
+   "-1.215219", 
+   "53.359315"
+  ], 
+  "address": "Shire Hall, Warwick, ", 
+  "GRO LAID": "44"
+ }, 
+ {
+  "name": "West Sussex County Council", 
+  "url": "http://www.westsussex.gov.uk/ccm/content/births-deaths-and-marriages/register-offices.en", 
+  "postcode": "PO19 1RQ", 
+  "longlat": [
+   "-1.239279", 
+   "52.754949"
+  ], 
+  "address": "County Hall, West Street, Chichester", 
+  "GRO LAID": "45"
+ }, 
+ {
+  "name": "Wiltshire Council", 
+  "url": "http://www.wiltshire.gov.uk/registration-office-contact-details.htm", 
+  "postcode": "BA14 8EZ", 
+  "longlat": [
+   "-2.210401", 
+   "51.317773"
+  ], 
+  "address": "The Chestnuts, Bythesea Road, Trowbridge", 
+  "GRO LAID": "46"
+ }, 
+ {
+  "name": "Worcestershire County Council", 
+  "url": "http://worcestershire.whub.org.uk/home/wcc-mas-proper-officer-functions.htm", 
+  "postcode": "WR5 2NP", 
+  "longlat": [
+   "-2.185708", 
+   "52.183201"
+  ], 
+  "address": "County Hall, Spetchley Road, Worcester", 
+  "GRO LAID": "47"
+ }, 
+ {
+  "name": "Isles of Scilly", 
+  "url": "http://www.scilly.gov.uk/community/", 
+  "postcode": "TR21 0LW ", 
+  "longlat": [
+   "-6.298672", 
+   "49.925002"
+  ], 
+  "address": "Town Hall , St Mary's , Isles of Scilly ", 
+  "GRO LAID": "48"
+ }, 
+ {
+  "name": "Cheshire East Council", 
+  "url": "http://www.cheshireeast.gov.uk/Default.aspx", 
+  "postcode": "SK10 1DP", 
+  "longlat": [
+   "-2.1281898", 
+   "53.2608434"
+  ], 
+  "address": "Town Hall, Macclesfield , ", 
+  "GRO LAID": "100"
+ }, 
+ {
+  "name": "Cheshire West and Chester Council", 
+  "url": "http://www.cheshirewestandchester.gov.uk/community_and_living/int_registration.aspx", 
+  "postcode": "CH1 1SF", 
+  "longlat": [
+   "-2.550527", 
+   "53.074521"
+  ], 
+  "address": "County Hall, Chester, Cheshire", 
+  "GRO LAID": "101"
+ }, 
+ {
+  "name": "Central Bedfordshire Council", 
+  "url": "http://www.centralbeds.gov.uk/", 
+  "postcode": "SG17 5TQ", 
+  "longlat": [
+   "-0.3477692", 
+   "52.0316229"
+  ], 
+  "address": "Priory House, Monks Walk, Chicksands", 
+  "GRO LAID": "102"
+ }, 
+ {
+  "name": "City of London", 
+  "url": "http://www.cityoflondon.gov.uk/Corporation/LGNL_Services/Community_and_living/", 
+  "postcode": "EC2Y 9BJ", 
+  "longlat": [
+   "-0.0904054", 
+   "51.5191438"
+  ], 
+  "address": "Milton Court [Ground Floor], Moor Lane, London", 
+  "GRO LAID": "00AA"
+ }, 
+ {
+  "name": "London Borough of Barking and Dagenham", 
+  "url": "http://www.barking-dagenham.gov.uk/8-leisure-envir/bdm-reg/bdm-menu.html", 
+  "postcode": "IG11 8SY", 
+  "longlat": [
+   "0.0912244", 
+   "51.5447853"
+  ], 
+  "address": "198 Longbridge Road, Barking, ", 
+  "GRO LAID": "00AB"
+ }, 
+ {
+  "name": "London Borough of Barnet", 
+  "url": "http://www.registeroffice.barnet.gov.uk", 
+  "postcode": "HA8 0AU", 
+  "longlat": [
+   "-0.2743476", 
+   "51.6014761"
+  ], 
+  "address": "182 Burnt Oak Broadway, Edgware,  Middlesex", 
+  "GRO LAID": "00AC"
+ }, 
+ {
+  "name": "London Borough of Bexley", 
+  "url": "http://www.bexley.gov.uk/service/registrars/index.html", 
+  "postcode": "DA14 6BW", 
+  "longlat": [
+   "0.102763", 
+   "51.423781"
+  ], 
+  "address": "Manor House, The Green, Sidcup", 
+  "GRO LAID": "00AD"
+ }, 
+ {
+  "name": "London Borough of Brent", 
+  "url": "http://www.brent.gov.uk/registrar.nsf", 
+  "postcode": "HA9 9HD", 
+  "longlat": [
+   "-0.285642", 
+   "51.565271"
+  ], 
+  "address": "Brent Town Hall, Forty Lane, Wembley", 
+  "GRO LAID": "00AE"
+ }, 
+ {
+  "name": "London Borough of Bromley", 
+  "url": "http://www.bromley.gov.uk/community/BirthsDeathsMarriagesPartnerships/brom_registration_service.htm", 
+  "postcode": "BR1 3UH\u00a0", 
+  "longlat": [
+   "0.019481", 
+   "51.403959"
+  ], 
+  "address": "Civic Centre, Stockwell Close, Bromley ", 
+  "GRO LAID": "00AF"
+ }, 
+ {
+  "name": "London Borough of Camden", 
+  "url": "http://www.camden.gov.uk/ccm/navigation/community-and-living/births--deaths-and-marriages/", 
+  "postcode": "WC1H 9JE", 
+  "longlat": [
+   "-0.125022", 
+   "51.527587"
+  ], 
+  "address": "Camden Town Hall, Judd Street, London", 
+  "GRO LAID": "00AG"
+ }, 
+ {
+  "name": "London Borough of Croydon", 
+  "url": "http://www.croydon.gov.uk/community/registeroffice/", 
+  "postcode": "CR0 1EA", 
+  "longlat": [
+   "-0.099351", 
+   "51.3717107"
+  ], 
+  "address": "Croydon Register Office, Mint Walk, Croydon", 
+  "GRO LAID": "00AH"
+ }, 
+ {
+  "name": "London Borough of Ealing", 
+  "url": "http://www.ealing.gov.uk/services/community/births_deaths_marriages/", 
+  "postcode": "W5 2BY", 
+  "longlat": [
+   "-0.3062647", 
+   "51.5129937"
+  ], 
+  "address": "Town Hall, New Broadway, Ealing", 
+  "GRO LAID": "00AJ"
+ }, 
+ {
+  "name": "London Borough of Enfield", 
+  "url": "http://www.enfield.gov.uk/319/index319.htm", 
+  "postcode": "EN2 6PS", 
+  "longlat": [
+   "-0.0870471", 
+   "51.6528455"
+  ], 
+  "address": "1 Gentleman\u2019s Row, Enfield, ", 
+  "GRO LAID": "00AK"
+ }, 
+ {
+  "name": "London Borough of Greenwich", 
+  "url": "http://www.greenwich.gov.uk/Greenwich/CommunityLiving/BirthsDeathsMarriages/", 
+  "postcode": "SE18 6PW", 
+  "longlat": [
+   "0.0647926", 
+   "51.4892951"
+  ], 
+  "address": "Town Hall, Wellington Street, Woolwich", 
+  "GRO LAID": "00AL"
+ }, 
+ {
+  "name": "London Borough of Hackney", 
+  "url": "http://www.hackney.gov.uk/print/lr-registrars", 
+  "postcode": "E8 1EA", 
+  "longlat": [
+   "-0.0690186", 
+   "51.5373311"
+  ], 
+  "address": "Ground Floor, Hackney Town Hall, Mare Street", 
+  "GRO LAID": "00AM"
+ }, 
+ {
+  "name": "London Borough of Hammersmith & Fulham", 
+  "url": "http://www.lbhf.gov.uk/Directory/Community_and_Living/", 
+  "postcode": "SW6 1ET", 
+  "longlat": [
+   "-0.1986131", 
+   "51.4799393"
+  ], 
+  "address": "Fulham Town Hall, Harwood Road, ", 
+  "GRO LAID": "00AN"
+ }, 
+ {
+  "name": "London Borough of Haringey", 
+  "url": "http://www.haringey.gov.uk/sq/services/bdm.htm", 
+  "postcode": "N22 8LE", 
+  "longlat": [
+   "-0.111016", 
+   "51.598983"
+  ], 
+  "address": "Civic Centre, High Road, Wood Green", 
+  "GRO LAID": "00AP"
+ }, 
+ {
+  "name": "London Borough of Harrow", 
+  "url": "http://www.harrow.gov.uk/site/scripts/documents.php?categoryID=100003", 
+  "postcode": "HA1 2XF", 
+  "longlat": [
+   "-0.334284", 
+   "51.58897"
+  ], 
+  "address": "Civic Centre, Station Road, Harrow", 
+  "GRO LAID": "00AQ"
+ }, 
+ {
+  "name": "London Borough of Havering", 
+  "url": "http://www.havering.gov.uk/index.cfm?articleid=2435&contactid=2404", 
+  "postcode": "RM11 1XL", 
+  "longlat": [
+   "0.21861", 
+   "51.565778"
+  ], 
+  "address": "Langtons House, Billet Lane, Hornchurch", 
+  "GRO LAID": "00AR"
+ }, 
+ {
+  "name": "London Borough of Hillingdon", 
+  "url": "http://www.hillingdon.gov.uk/index.jsp?articleid=9657", 
+  "postcode": "UB8 1UW", 
+  "longlat": [
+   "-0.4790935", 
+   "51.5458899"
+  ], 
+  "address": "Civic Centre, High Street, Uxbridge", 
+  "GRO LAID": "00AS"
+ }, 
+ {
+  "name": "London Borough of Hounslow", 
+  "url": "http://www.hounslow.gov.uk/index/community_and_living.htm", 
+  "postcode": "TW3 4DW", 
+  "longlat": [
+   "-0.3660087", 
+   "51.4737712"
+  ], 
+  "address": "88 Lampton Road, Hounslow, ", 
+  "GRO LAID": "00AT"
+ }, 
+ {
+  "name": "London Borough of Islington", 
+  "url": "http://www.islington.gov.uk/Community/birthsdeathsandmarriages/default.asp", 
+  "postcode": "N1 2UD", 
+  "longlat": [
+   "-0.0833382", 
+   "51.5550912"
+  ], 
+  "address": "Islington Town Hall, Upper Street, London", 
+  "GRO LAID": "00AU"
+ }, 
+ {
+  "name": "Royal Borough of Kensington and Chelsea", 
+  "url": "http://www.rbkc.gov.uk/BirthsDeathsAndMarriages/General/default.asp", 
+  "postcode": "SW3 5EE", 
+  "longlat": [
+   "-0.1541228", 
+   "51.4943681"
+  ], 
+  "address": "Chelsea Old Town Hall, Kings Road, London", 
+  "GRO LAID": "00AW"
+ }, 
+ {
+  "name": "London Borough of Kingston upon Thames", 
+  "url": "http://www.kingston.gov.uk/community,_people_and_living/rbdm.htm", 
+  "postcode": "KT2 7BA", 
+  "longlat": [
+   "-0.257193", 
+   "51.40502"
+  ], 
+  "address": "35 Coombe Road, Kingston upon Thames, ", 
+  "GRO LAID": "00AX"
+ }, 
+ {
+  "name": "London Borough of Lambeth", 
+  "url": "http://www.lambeth.gov.uk/Services/CommunityLiving/CivilCeremonies/RegisterOffice.htm", 
+  "postcode": "SW2 1RW", 
+  "longlat": [
+   "-0.119175", 
+   "51.501022"
+  ], 
+  "address": "Lambeth Town Hall, London, ", 
+  "GRO LAID": "00AY"
+ }, 
+ {
+  "name": "London Borough of Lewisham", 
+  "url": "http://www.lewisham.gov.uk/CommunityAndLiving/BirthsDeathsAndMarriages/", 
+  "postcode": "SE13 6LQ", 
+  "longlat": [
+   "0.0107304", 
+   "51.4566123"
+  ], 
+  "address": "368 Lewisham High Street, London, ", 
+  "GRO LAID": "00AZ"
+ }, 
+ {
+  "name": "London Borough of Merton", 
+  "url": "http://www.merton.gov.uk/register/", 
+  "postcode": "SM4 5QU", 
+  "longlat": [
+   "-0.1986", 
+   "51.398494"
+  ], 
+  "address": "Morden Park House, London Road, Morden", 
+  "GRO LAID": "00BA"
+ }, 
+ {
+  "name": "London Borough of Newham", 
+  "url": "http://www.newham.gov.uk/Services/RegisterOffice/intouch.htm ", 
+  "postcode": "E6 1BT", 
+  "longlat": [
+   "0.0456703", 
+   "51.5394432"
+  ], 
+  "address": "207 Plashet Grove, East Ham, London", 
+  "GRO LAID": "00BB"
+ }, 
+ {
+  "name": "London Borough of Redbridge", 
+  "url": "http://www.redbridge.gov.uk/cms/a_to_z_of_services/r/register_office.aspx", 
+  "postcode": "IG6 1JS", 
+  "longlat": [
+   "0.0782876", 
+   "51.5849865"
+  ], 
+  "address": "Queen Victoria House, 794 Cranbrook Road, Ilford", 
+  "GRO LAID": "00BC"
+ }, 
+ {
+  "name": "London Borough of Richmond upon Thames", 
+  "url": "http://www.richmond.gov.uk/home/community_and_living/birth_marriage_and_death.htm", 
+  "postcode": "TW9 1LW", 
+  "longlat": [
+   "-0.362363", 
+   "51.4004385"
+  ], 
+  "address": "1 Spring Terrace, Richmond, Surrey", 
+  "GRO LAID": "00BD"
+ }, 
+ {
+  "name": "London Borough of Southwark", 
+  "url": "http://www.southwark.gov.uk/YourServices/BirthsDeathsMarriages/", 
+  "postcode": "SE5 8QA", 
+  "longlat": [
+   "-0.0828999", 
+   "51.4737086"
+  ], 
+  "address": "34 Peckham Road, London, ", 
+  "GRO LAID": "00BE"
+ }, 
+ {
+  "name": "London Borough of Sutton", 
+  "url": "http://www.sutton.gov.uk/index.aspx?articleid=3555", 
+  "postcode": "SM2 6PR", 
+  "longlat": [
+   "-0.1978048", 
+   "51.356273"
+  ], 
+  "address": "Russettings, 25 Worcester Road, Sutton", 
+  "GRO LAID": "00BF"
+ }, 
+ {
+  "name": "London Borough of Tower Hamlets", 
+  "url": "http://www.towerhamlets.gov.uk/lgnl/community_and_living1.aspx", 
+  "postcode": "E3 3AA", 
+  "longlat": [
+   "-0.021048", 
+   "51.527938"
+  ], 
+  "address": "Bromley Public Hall, Bow Road, London", 
+  "GRO LAID": "00BG"
+ }, 
+ {
+  "name": "London Borough of Waltham Forest", 
+  "url": "http://www.walthamforest.gov.uk/register-office.htm", 
+  "postcode": "E17 9BY", 
+  "longlat": [
+   "-0.0112371", 
+   "51.5790166"
+  ], 
+  "address": "106 Grove Road, Walthamstow, ", 
+  "GRO LAID": "00BH"
+ }, 
+ {
+  "name": "London Borough of Wandsworth", 
+  "url": "http://www.wandsworth.gov.uk/Home/CommunityServices/RegisterOffice/default.htm ", 
+  "postcode": "SW18 2PU", 
+  "longlat": [
+   "-0.1930119", 
+   "51.4568435"
+  ], 
+  "address": "Wandsworth High Street, , ", 
+  "GRO LAID": "00BJ"
+ }, 
+ {
+  "name": "London Borough of Westminster", 
+  "url": "http://www.westminster.gov.uk/communityandliving/registrar/", 
+  "postcode": "NW1 5PT", 
+  "longlat": [
+   "-0.163836", 
+   "51.521367"
+  ], 
+  "address": "Westminster Council House, Marylebone Road, London", 
+  "GRO LAID": "00BK"
+ }, 
+ {
+  "name": "Bolton Metropolitan Borough Council", 
+  "url": "http://www.bolton.gov.uk", 
+  "postcode": "BL1 2QT", 
+  "longlat": [
+   "-2.4394158", 
+   "53.5861244"
+  ], 
+  "address": "Mere Hall, Merehall Street, Bolton", 
+  "GRO LAID": "00BL"
+ }, 
+ {
+  "name": "Bury Metropolitan Borough Council", 
+  "url": "http://www.bury.gov.uk/LifeEvents/Default.htm", 
+  "postcode": "BL9 0SW", 
+  "longlat": [
+   "-2.2552539", 
+   "53.4990813"
+  ], 
+  "address": "Town Hall, Manchester Road, Bury", 
+  "GRO LAID": "00BM"
+ }, 
+ {
+  "name": "Manchester City Council", 
+  "url": "http://www.manchester.gov.uk/registrars/", 
+  "postcode": "M2 5LE", 
+  "longlat": [
+   "-2.2470997", 
+   "53.4792027"
+  ], 
+  "address": "Heron House, 47 Lloyd Street, Manchester", 
+  "GRO LAID": "00BN"
+ }, 
+ {
+  "name": "Oldham Metropolitan Borough Council", 
+  "url": "http://www.oldham.gov.uk/a-z_of_services/cs-registrars.htm ", 
+  "postcode": "OL9 6PP", 
+  "longlat": [
+   "-2.13784", 
+   "53.54437"
+  ], 
+  "address": "Chadderton Town Hall, Middleton Road, Oldham", 
+  "GRO LAID": "00BP"
+ }, 
+ {
+  "name": "Rochdale Metropolitan Borough Council", 
+  "url": "http://www.rochdale.gov.uk/community_and_living/births/birth_-_historical_searches.aspx", 
+  "postcode": "OL16 1AB", 
+  "longlat": [
+   "-2.1587102", 
+   "53.6163516"
+  ], 
+  "address": "Town Hall, Vicars Gate, Rochdale", 
+  "GRO LAID": "00BQ"
+ }, 
+ {
+  "name": "Salford City Council", 
+  "url": "http://www.salford.gov.uk/bmd.htm ", 
+  "postcode": "M27 5DA", 
+  "longlat": [
+   "-2.33931", 
+   "53.51184"
+  ], 
+  "address": "Salford Civic Centre , Chorley Road, Swinton", 
+  "GRO LAID": "00BR"
+ }, 
+ {
+  "name": "Stockport Metropolitan Borough Council", 
+  "url": "http://www.stockport.gov.uk/content/communitypeopleliving/lifeevents/stockportregisteroffice/?a=5441 ", 
+  "postcode": "SK1 3XE", 
+  "longlat": [
+   "-2.1492931", 
+   "53.4084881"
+  ], 
+  "address": "Town Hall, John Street Entrance, Stockport", 
+  "GRO LAID": "00BS"
+ }, 
+ {
+  "name": "Tameside Metropolitan Borough Council", 
+  "url": "http://www.tameside.gov.uk/tmbc2/registrarsoffice.htm ", 
+  "postcode": "SK16 4LA", 
+  "longlat": [
+   "-2.09292", 
+   "53.47763"
+  ], 
+  "address": "Dukinfield Town Hall, King Street, Dukinfield", 
+  "GRO LAID": "00BT"
+ }, 
+ {
+  "name": "Trafford Metropolitan Borough Council", 
+  "url": "http://www.trafford.gov.uk/CommunityAndLiving", 
+  "postcode": "M33 7ZF", 
+  "longlat": [
+   "-2.293648", 
+   "53.466254"
+  ], 
+  "address": "Sale Town Hall, Sale Waterside, Sale", 
+  "GRO LAID": "00BU"
+ }, 
+ {
+  "name": "Wigan Metropolitan Borough Council", 
+  "url": "http://www.wigan.gov.uk/Services/CommunityLiving/BirthsDeathsMarriages/", 
+  "postcode": "WN1 1YN", 
+  "longlat": [
+   "-2.63077", 
+   "53.54524"
+  ], 
+  "address": "Town Hall, Library Street, Wigan", 
+  "GRO LAID": "00BW"
+ }, 
+ {
+  "name": "Knowsley Metropolitan Borough Council", 
+  "url": "http://www.knowsley.gov.uk/residents/births,-deaths,-and-marriages.aspx", 
+  "postcode": "L34 3LH", 
+  "longlat": [
+   "-2.8047521", 
+   "53.4299125"
+  ], 
+  "address": "High Street, Prescot, Knowsley", 
+  "GRO LAID": "00BX"
+ }, 
+ {
+  "name": "Liverpool City Council", 
+  "url": "http://www.liverpool.gov.uk/registrars_office/index.asp", 
+  "postcode": "L3 9UF", 
+  "longlat": [
+   "-2.9949146", 
+   "53.4097488"
+  ], 
+  "address": "The Cotton Exchange, Old Hall Street, Liverpool", 
+  "GRO LAID": "00BY"
+ }, 
+ {
+  "name": "St Helens Metropolitan Borough Council", 
+  "url": "http://www.sthelens.gov.uk/CMSWEB/item.do?parentID=100001&category=200010&itemid=319", 
+  "postcode": "WA10 1UJ", 
+  "longlat": [
+   "-2.736209", 
+   "53.457486"
+  ], 
+  "address": "Central Street, St. Helens, ", 
+  "GRO LAID": "00BZ"
+ }, 
+ {
+  "name": "Sefton Metropolitan Borough Council", 
+  "url": "http://www.sefton.gov.uk/Default.aspx?page=1746", 
+  "postcode": "PR8 1DA", 
+  "longlat": [
+   "-3.0356872", 
+   "53.4015237"
+  ], 
+  "address": "Corporation Street, Southport, ", 
+  "GRO LAID": "00CA"
+ }, 
+ {
+  "name": "Wirral Council", 
+  "url": "http://www.wirral.gov.uk/LGCL/100003/", 
+  "postcode": "CH44 8ED", 
+  "longlat": [
+   "-3.022361", 
+   "53.414157"
+  ], 
+  "address": "Town Hall, Brighton Street, Wallasey", 
+  "GRO LAID": "00CB"
+ }, 
+ {
+  "name": "Barnsley Metropolitan Borough Council", 
+  "url": "http://www.barnsley.gov.uk/bguk/Community/Registrars", 
+  "postcode": "S70 2TA", 
+  "longlat": [
+   "-1.482162", 
+   "53.555144"
+  ], 
+  "address": "Church Street, Barnsley, ", 
+  "GRO LAID": "00CC"
+ }, 
+ {
+  "name": "Doncaster Metropolitan Borough Council", 
+  "url": "http://www.doncaster.gov.uk/Living_in_Doncaster/Life_Events/Life_Events.asp?lifeevents", 
+  "postcode": "DN1 2EB", 
+  "longlat": [
+   "-1.1337622", 
+   "53.5230412"
+  ], 
+  "address": "Elmfield Park, South Parade, Doncaster", 
+  "GRO LAID": "00CE"
+ }, 
+ {
+  "name": "Rotherham Metropolitan Borough Council", 
+  "url": "http://www.rotherham.gov.uk/graphics/YourCouncil/Register+Office/ ", 
+  "postcode": "S60 1TX", 
+  "longlat": [
+   "-1.3549385", 
+   "53.4366189"
+  ], 
+  "address": "Bailey House, Rawmarsh Road, Rotherham", 
+  "GRO LAID": "00CF"
+ }, 
+ {
+  "name": "Sheffield City Council", 
+  "url": "http://www.sheffield.gov.uk/your-city-council/register-office", 
+  "postcode": "S1 2HH", 
+  "longlat": [
+   "-1.47022", 
+   "53.37974"
+  ], 
+  "address": "Town Hall, Pinstone Street, Sheffield", 
+  "GRO LAID": "00CG"
+ }, 
+ {
+  "name": "Gateshead Metropolitan Borough Council", 
+  "url": "http://www.gateshead.gov.uk/People%20and%20Living/marriages/Home.aspx", 
+  "postcode": "NE8 1HH", 
+  "longlat": [
+   "-1.603215", 
+   "54.959485"
+  ], 
+  "address": "Gateshead Civic Centre, Regent Street, Gateshead", 
+  "GRO LAID": "00CH"
+ }, 
+ {
+  "name": "Newcastle-upon-Tyne City Council", 
+  "url": "http://www.newcastle.gov.uk/registrars.nsf/a/homepage?opendocument ", 
+  "postcode": "NE1 8PS", 
+  "longlat": [
+   "-1.610028", 
+   "54.978504"
+  ], 
+  "address": "Civic Centre, Newcastle Upon Tyne, ", 
+  "GRO LAID": "00CJ"
+ }, 
+ {
+  "name": "North Tyneside Metropolitan Borough Council", 
+  "url": "http://www.northtyneside.gov.uk/browse.shtml?p_subjectCategory=366", 
+  "postcode": "NE30 1LZ", 
+  "longlat": [
+   "-1.443638", 
+   "55.008619"
+  ], 
+  "address": "Maritime Chambers, 1 Howard Street, North Shields", 
+  "GRO LAID": "00CK"
+ }, 
+ {
+  "name": "South Tyneside Council", 
+  "url": "http://www.southtyneside.info/communitysupport/register/default.asp", 
+  "postcode": "NE33 2RN", 
+  "longlat": [
+   "-1.4276747", 
+   "54.9949606"
+  ], 
+  "address": "10 Broughton Road, South Shields, ", 
+  "GRO LAID": "00CL"
+ }, 
+ {
+  "name": "Sunderland City Council", 
+  "url": "http://www.sunderland.gov.uk/Public/Editable/Life-Episodes/BDM/birth/opening_hours.asp?AltCrumb=When%20can%20I%20register%20the%20birth?", 
+  "postcode": "SR2 7DN", 
+  "longlat": [
+   "-1.38146", 
+   "54.90125"
+  ], 
+  "address": "Civic Centre, Sunderland, ", 
+  "GRO LAID": "00CM"
+ }, 
+ {
+  "name": "Birmingham City Council", 
+  "url": "http://www.birmingham.gov.uk/registeroffice.bcc", 
+  "postcode": "B1 1TJ ", 
+  "longlat": [
+   "-1.893592", 
+   "52.4829614"
+  ], 
+  "address": "Holiday Wharf, Holiday Street, Birmingham", 
+  "GRO LAID": "00CN"
+ }, 
+ {
+  "name": "Coventry City Council", 
+  "url": "http://www.coventry.gov.uk/ccm/navigation/council--government-and-democracy/council/register-office/", 
+  "postcode": "CV1 2ND", 
+  "longlat": [
+   "-1.5126083", 
+   "52.4041935"
+  ], 
+  "address": "Cheylesmore Manor House, Manor House Drive, Coventry", 
+  "GRO LAID": "00CQ"
+ }, 
+ {
+  "name": "Dudley Metropolitan Borough Council", 
+  "url": "http://www.dudley.gov.uk/community-and-living/registration-service", 
+  "postcode": "DY1 4EU", 
+  "longlat": [
+   "-2.0861323", 
+   "52.5168535"
+  ], 
+  "address": "Priory Hall, Priory Park, Dudley", 
+  "GRO LAID": "00CR"
+ }, 
+ {
+  "name": "Sandwell Metropolitan Borough Council", 
+  "url": "http://www.laws.sandwell.gov.uk/ccm/navigation/community-and-living/life-events/", 
+  "postcode": "B70 8RJ", 
+  "longlat": [
+   "-1.968381", 
+   "52.49253"
+  ], 
+  "address": "Highfields, High Street, West Bromwich", 
+  "GRO LAID": "00CS"
+ }, 
+ {
+  "name": "Solihull Metropolitan Borough Council", 
+  "url": "http://www.solihull.gov.uk/community/default.htm", 
+  "postcode": "B91 9RG", 
+  "longlat": [
+   "-1.7742959", 
+   "52.4147109"
+  ], 
+  "address": "Library Square, Solihull, ", 
+  "GRO LAID": "00CT"
+ }, 
+ {
+  "name": "Walsall Metropolitan Borough Council", 
+  "url": "http://www.walsall.gov.uk/index/community_and_living.htm", 
+  "postcode": "WS1 1TN", 
+  "longlat": [
+   "-1.9812488", 
+   "52.5868"
+  ], 
+  "address": "Civic Centre, Hatherton Road, Walsall\u00a0", 
+  "GRO LAID": "00CU"
+ }, 
+ {
+  "name": "Wolverhampton City Council", 
+  "url": "http://www.wolverhampton.gov.uk/community_living/life_events/", 
+  "postcode": "WV1 1RU", 
+  "longlat": [
+   "-2.129652", 
+   "52.587113"
+  ], 
+  "address": "Civic Centre, St. Peter's Square, Wolverhampton", 
+  "GRO LAID": "00CW"
+ }, 
+ {
+  "name": "Bradford Metropolitan District Council", 
+  "url": "http://www.bradford.gov.uk/information_and_communication/information_management/register_office/", 
+  "postcode": "BD1 4QR", 
+  "longlat": [
+   "-1.7559547", 
+   "53.7975791"
+  ], 
+  "address": "22 Manor Row, Bradford, ", 
+  "GRO LAID": "00CX"
+ }, 
+ {
+  "name": "Calderdale Metropolitan Borough Council", 
+  "url": "http://www.calderdale.gov.uk/advice/life-events/register-office/certificate-fee.html", 
+  "postcode": "HX1 2AH", 
+  "longlat": [
+   "-1.8639315", 
+   "53.7205947"
+  ], 
+  "address": "4 Carlton Street, Halifax, ", 
+  "GRO LAID": "00CY"
+ }, 
+ {
+  "name": "Kirklees Metropolitan Borough Council", 
+  "url": "http://www.kirklees.gov.uk/registeroffices ", 
+  "postcode": "HD1 2PL", 
+  "longlat": [
+   "-1.8672531", 
+   "53.6442341"
+  ], 
+  "address": "11 High Street, Huddersfield, ", 
+  "GRO LAID": "00CZ"
+ }, 
+ {
+  "name": "Leeds City Council", 
+  "url": "http://www.leeds.gov.uk/register ", 
+  "postcode": "LS1 3AD", 
+  "longlat": [
+   "-1.5452804", 
+   "53.7994665"
+  ], 
+  "address": "Leeds Town Hall, The Headrow, Leeds", 
+  "GRO LAID": "00DA"
+ }, 
+ {
+  "name": "Wakefield Metropolitan District Council", 
+  "url": "http://www.wakefield.gov.uk/CommunityAndLiving/Registrars/default.htm", 
+  "postcode": "WF1 3BS", 
+  "longlat": [
+   "-1.4999629", 
+   "53.6849964"
+  ], 
+  "address": "71 Northgate, Wakefield, ", 
+  "GRO LAID": "00DB"
+ }, 
+ {
+  "name": "Hartlepool Borough Council", 
+  "url": "http://www.hartlepool.gov.uk/registeroffice/", 
+  "postcode": "TS24 8AY", 
+  "longlat": [
+   "-1.215348", 
+   "54.68531"
+  ], 
+  "address": "Civic Centre, Victoria Road, Hartlepool", 
+  "GRO LAID": "00EB"
+ }, 
+ {
+  "name": "Middlesbrough Borough Council", 
+  "url": "http://www.middlesbrough.gov.uk/theme/middlesbrough/ccm/navigation/community-and-living/life-events/", 
+  "postcode": "TS1 2QQ", 
+  "longlat": [
+   "-1.23293", 
+   "54.57623"
+  ], 
+  "address": "Town Hall, Middlesbrough, ", 
+  "GRO LAID": "00EC"
+ }, 
+ {
+  "name": "Redcar and Cleveland Council", 
+  "url": "http://www.redcar-cleveland.gov.uk/main.nsf/Web+Full+List/83B0816617AEFD7580257059004CABE2?OpenDocument", 
+  "postcode": "TS14 6AP", 
+  "longlat": [
+   "-1.0551712", 
+   "54.5347965"
+  ], 
+  "address": "88 Westgate, Guisborough, ", 
+  "GRO LAID": "00EE"
+ }, 
+ {
+  "name": "Stockton-on-Tees Borough Council", 
+  "url": "http://www.stockton.gov.uk/citizenservices/registeroffice/", 
+  "postcode": "TS18 2AL", 
+  "longlat": [
+   "-1.317067", 
+   "54.569105"
+  ], 
+  "address": "Balaclava Street, Stockton-on-Tees, ", 
+  "GRO LAID": "00EF"
+ }, 
+ {
+  "name": "Darlington Borough Council", 
+  "url": "http://www.darlington.gov.uk/Legal+Services/Register+Office/Register+Office.htm", 
+  "postcode": "DL1 5RG", 
+  "longlat": [
+   "-1.554999", 
+   "54.523554"
+  ], 
+  "address": "Backhouse Hall, Bull Wynd, Darlington", 
+  "GRO LAID": "00EH"
+ }, 
+ {
+  "name": "Halton Borough Council", 
+  "url": "http://www2.halton.gov.uk/content/communityandliving/lifeevents/registration/?a=5441", 
+  "postcode": "WA7 5TN", 
+  "longlat": [
+   "-2.652161", 
+   "53.38745"
+  ], 
+  "address": "Town Hall, Heath Road, Runcorn", 
+  "GRO LAID": "00ET"
+ }, 
+ {
+  "name": "Warrington Borough Council", 
+  "url": "http://www.warrington.gov.uk/Adviceandbenefits/Communityadvice/registrars.aspx", 
+  "postcode": "WA1 1JX", 
+  "longlat": [
+   "-2.599097", 
+   "53.386677"
+  ], 
+  "address": "Museum Street, Warrington, ", 
+  "GRO LAID": "00EU"
+ }, 
+ {
+  "name": "Blackburn with Darwen Borough Council", 
+  "url": "http://www.blackburn.gov.uk/server.php?show=ConWebDoc.13973", 
+  "postcode": "BB2 1AA", 
+  "longlat": [
+   "-2.485653", 
+   "53.749007"
+  ], 
+  "address": "King George's Hall, Northgate, Blackburn", 
+  "GRO LAID": "00EX"
+ }, 
+ {
+  "name": "Blackpool Borough Council", 
+  "url": "http://www.blackpool.gov.uk/CommunityandLiving/", 
+  "postcode": "FY1 4AX", 
+  "longlat": [
+   "-3.0476", 
+   "53.816807"
+  ], 
+  "address": "South King Street, Blackpool, ", 
+  "GRO LAID": "00EY"
+ }, 
+ {
+  "name": "Kingston-upon-Hull City Council", 
+  "url": "http://www.hullcc.gov.uk/portal/page?_pageid=221,52464&_dad=portal&_schema=PORTAL", 
+  "postcode": "HU1 3BY", 
+  "longlat": [
+   "-0.4179618", 
+   "53.784721"
+  ], 
+  "address": "181 \u2013 191 George Street, Hull, ", 
+  "GRO LAID": "00FA"
+ }, 
+ {
+  "name": "East Riding of Yorkshire Council", 
+  "url": "http://www.eastriding.gov.uk/atoz/details.aspx?id=78", 
+  "postcode": "HU17 9BA", 
+  "longlat": [
+   "-0.4289325", 
+   "53.8412833"
+  ], 
+  "address": "County Hall, Cross Street, Beverley ", 
+  "GRO LAID": "00FB"
+ }, 
+ {
+  "name": "North East Lincolnshire Council", 
+  "url": "http://www.nelincs.gov.uk/Community/BirthsDeathsandMarriageRegistration/ ", 
+  "postcode": "DN31 1HX", 
+  "longlat": [
+   "-0.082224", 
+   "53.565095"
+  ], 
+  "address": "Town Hall Square, Grimsby, North East Lincolnshire", 
+  "GRO LAID": "00FC"
+ }, 
+ {
+  "name": "North Lincolnshire Council", 
+  "url": "http://www.northlincs.gov.uk/NorthLincs/Communitypeopleandliving/birthsdeathsmarriageregistration/", 
+  "postcode": "DN15 7PA", 
+  "longlat": [
+   "-0.6538947", 
+   "53.5871753"
+  ], 
+  "address": "92 Oswald Road, Scunthorpe, North Lincolnshire", 
+  "GRO LAID": "00FD"
+ }, 
+ {
+  "name": "York City Council", 
+  "url": "http://www.york.gov.uk/register/", 
+  "postcode": "YO30 7DA", 
+  "longlat": [
+   "-1.0880326", 
+   "53.9642761"
+  ], 
+  "address": "56 Bootham, York, ", 
+  "GRO LAID": "00FF"
+ }, 
+ {
+  "name": "Derby City Council", 
+  "url": "http://www.derby.gov.uk/CommunityLiving/LifeEvents/Births", 
+  "postcode": "DE1 3AR", 
+  "longlat": [
+   "-1.4765107", 
+   "52.9230442"
+  ], 
+  "address": "Royal Oak House, Market Place, Derby", 
+  "GRO LAID": "00FK"
+ }, 
+ {
+  "name": "Leicester City Council", 
+  "url": "http://www.leicester.gov.uk/departments/page.asp?pgid=892", 
+  "postcode": "LE1 9BG", 
+  "longlat": [
+   "-1.1522595", 
+   "52.6054007"
+  ], 
+  "address": "Town Hall, Town Hall Square, Leicester", 
+  "GRO LAID": "00FN"
+ }, 
+ {
+  "name": "Rutland County Council", 
+  "url": "http://www.rutnet.co.uk/pp/gold/viewgold.asp?id=847", 
+  "postcode": "LE15 6HY", 
+  "longlat": [
+   "-0.7239156", 
+   "52.6681746"
+  ], 
+  "address": "Catmose Cottage, South Street, Rutland", 
+  "GRO LAID": "00FP"
+ }, 
+ {
+  "name": "Nottingham City Council", 
+  "url": "http://www.nottinghamcity.gov.uk/index.aspx?articleid=2341 ", 
+  "postcode": "NG1 4FP", 
+  "longlat": [
+   "-1.1526748", 
+   "52.9579024"
+  ], 
+  "address": "50 Shakespeare Street, Nottingham, ", 
+  "GRO LAID": "00FY"
+ }, 
+ {
+  "name": "Herefordshire Council", 
+  "url": "http://www.herefordshire.gov.uk/community_and_living/life_events/1298.asp", 
+  "postcode": "HR1 2PJ", 
+  "longlat": [
+   "-2.706212", 
+   "52.052509"
+  ], 
+  "address": "Town Hall, St Owen's Street, Hereford", 
+  "GRO LAID": "00GA"
+ }, 
+ {
+  "name": "Telford & Wrekin Council", 
+  "url": "http://www.telford.gov.uk/Community+living/Births/", 
+  "postcode": "TF1 1HB", 
+  "longlat": [
+   "-2.449284", 
+   "52.6777266"
+  ], 
+  "address": "The Beeches, 29 Vineyard Road, Telford", 
+  "GRO LAID": "00GF"
+ }, 
+ {
+  "name": "Stoke-on-Trent City Council", 
+  "url": "http://www.stoke.gov.uk/ccm/navigation/community--people-and-living/births--deaths--marriages-and-citizenship/registration-births-and-deaths/", 
+  "postcode": "ST1 1QQ", 
+  "longlat": [
+   "-2.1762106", 
+   "53.0237142"
+  ], 
+  "address": "Albion Street, Hanley, Stoke-on-Trent", 
+  "GRO LAID": "00GL"
+ }, 
+ {
+  "name": "Bath & North East Somerset Council", 
+  "url": "http://www.bathnes.gov.uk/BathNES/communityandliving/localoffices.htm", 
+  "postcode": "BA1 5AW", 
+  "longlat": [
+   "-2.35879", 
+   "51.382049"
+  ], 
+  "address": "The Guildhall, High Street, Bath", 
+  "GRO LAID": "00HA"
+ }, 
+ {
+  "name": "Bristol City Council", 
+  "url": "http://www.bristol-city.gov.uk/ccm/content/Community-Living/Marriages/register-office-births-marriages-and-deaths.en", 
+  "postcode": "BS1 1JG", 
+  "longlat": [
+   "-2.5941523", 
+   "51.4544836"
+  ], 
+  "address": "The Old Council House, Corn Street, Bristol", 
+  "GRO LAID": "00HB"
+ }, 
+ {
+  "name": "North Somerset District Council", 
+  "url": "http://www.n-somerset.gov.uk/Community/Births+deaths+marriages+and+life+events/", 
+  "postcode": "BS23 1PG", 
+  "longlat": [
+   "-2.9727645", 
+   "51.3503962"
+  ], 
+  "address": "41 Boulevard, Weston-super-Mare, ", 
+  "GRO LAID": "00HC"
+ }, 
+ {
+  "name": "South Gloucestershire Council", 
+  "url": "http://www.southglos.gov.uk/Communities/BirthDeathMarriage/", 
+  "postcode": "BS35 1HF", 
+  "longlat": [
+   "-2.527968", 
+   "51.611366"
+  ], 
+  "address": "Castle Street, Thornbury, ", 
+  "GRO LAID": "00HD"
+ }, 
+ {
+  "name": "Plymouth City Council", 
+  "url": "http://www.plymouth.gov.uk/homepage/yourcouncil/community,_people_and_living/registeroffice.htm ", 
+  "postcode": "PL1 2QD", 
+  "longlat": [
+   "-4.143678", 
+   "50.367437"
+  ], 
+  "address": "Lockyer Street, Plymouth , ", 
+  "GRO LAID": "00HG"
+ }, 
+ {
+  "name": "Torbay Council", 
+  "url": "http://www.torbay.gov.uk/register-office", 
+  "postcode": "TQ3 2TE", 
+  "longlat": [
+   "-3.567738", 
+   "50.442978"
+  ], 
+  "address": "Oldway Mansion, Torquay Road, Paignton", 
+  "GRO LAID": "00HH"
+ }, 
+ {
+  "name": "Bournemouth Borough Council", 
+  "url": "http://www.bournemouth.gov.uk/Residents/births/default.asp", 
+  "postcode": "BH2 6DY", 
+  "longlat": [
+   "-1.882843", 
+   "50.721955"
+  ], 
+  "address": "Town Hall, Bourne Avenue, Bournemouth", 
+  "GRO LAID": "00HN"
+ }, 
+ {
+  "name": "Borough of Poole", 
+  "url": "http://www.boroughofpoole.com/go.php?structureID=categories&ref=C464833988B297", 
+  "postcode": "BH15 1NP", 
+  "longlat": [
+   "-1.987478", 
+   "50.71445"
+  ], 
+  "address": "The Guildhall, Market Street, Poole", 
+  "GRO LAID": "00HP"
+ }, 
+ {
+  "name": "Swindon Borough Council", 
+  "url": "http://www.swindon.gov.uk/publicservices/public-registration/community-registrationopeningtimes.htm ", 
+  "postcode": "SN1 1SQ", 
+  "longlat": [
+   "-1.783021", 
+   "51.5590464"
+  ], 
+  "address": "Aspen House, Temple Street, Swindon", 
+  "GRO LAID": "00HX"
+ }, 
+ {
+  "name": "Peterborough City Council", 
+  "url": "http://www.peterborough.gov.uk/reg", 
+  "postcode": "PE3 6AB", 
+  "longlat": [
+   "-0.2522056", 
+   "52.5724759"
+  ], 
+  "address": "33 Thorpe Road, Peterborough, ", 
+  "GRO LAID": "00JA"
+ }, 
+ {
+  "name": "Luton Borough Council", 
+  "url": "http://www.luton.gov.uk/internet/community_and_living/life_events", 
+  "postcode": "LU1 2BJ", 
+  "longlat": [
+   "-0.5269587", 
+   "51.8906479"
+  ], 
+  "address": "6 George Street West, Luton, ", 
+  "GRO LAID": "00KA"
+ }, 
+ {
+  "name": "Southend-on-Sea Borough Council", 
+  "url": "http://www.southend.gov.uk/content.asp?section=575", 
+  "postcode": "SS2 6ER", 
+  "longlat": [
+   "0.70877", 
+   "51.544829"
+  ], 
+  "address": "Civic Centre, Victoria Avenue, Southend-on-Sea", 
+  "GRO LAID": "00KF"
+ }, 
+ {
+  "name": "Thurrock Council", 
+  "url": "http://www.thurrock.gov.uk/legal/register/ ", 
+  "postcode": "RM17 5DX", 
+  "longlat": [
+   "0.327392", 
+   "51.479772"
+  ], 
+  "address": "Thameside Complex, Orsett Road, Grays", 
+  "GRO LAID": "00KG"
+ }, 
+ {
+  "name": "Medway Council", 
+  "url": "http://www.medway.gov.uk/index/community/registeroffice.htm", 
+  "postcode": "ME1 1LS", 
+  "longlat": [
+   "0.504833", 
+   "51.390191"
+  ], 
+  "address": "Northgate, Rochester, Kent", 
+  "GRO LAID": "00LC"
+ }, 
+ {
+  "name": "Bracknell Forest Council", 
+  "url": "http://www.bracknell-forest.gov.uk/living/liv-births-deaths-and-marriages.htm", 
+  "postcode": "RG12 1AQ", 
+  "longlat": [
+   "-0.747297", 
+   "51.417512"
+  ], 
+  "address": "Easthampstead House, Town Square, Bracknell", 
+  "GRO LAID": "00MA"
+ }, 
+ {
+  "name": "West Berkshire Council", 
+  "url": "http://www.westberks.gov.uk/index.aspx?articleid=4033", 
+  "postcode": "RG14 2DR", 
+  "longlat": [
+   "-1.316481", 
+   "51.411941"
+  ], 
+  "address": "Shaw House, Church Road, Newbury", 
+  "GRO LAID": "00MB"
+ }, 
+ {
+  "name": "Reading Borough Council", 
+  "url": "http://www.reading.gov.uk/communityandliving/registrar/", 
+  "postcode": "RG1 7TA", 
+  "longlat": [
+   "-0.9805136", 
+   "51.4515159"
+  ], 
+  "address": "Yeomanry House, 131 Castle Hill, Reading", 
+  "GRO LAID": "00MC"
+ }, 
+ {
+  "name": "Slough Borough Council", 
+  "url": "http://www.slough.gov.uk/services/797.asp", 
+  "postcode": "SL1 4UT", 
+  "longlat": [
+   "-0.6153254", 
+   "51.5236474"
+  ], 
+  "address": "The Centre, Farnham Road, Slough", 
+  "GRO LAID": "00MD"
+ }, 
+ {
+  "name": "Royal Borough of Windsor and Maidenhead", 
+  "url": "http://www.rbwm.gov.uk/community_living.htm", 
+  "postcode": "SL6 1RF", 
+  "longlat": [
+   "-0.718049", 
+   "51.521863"
+  ], 
+  "address": "Town Hall, St. Ives Road, Maidenhead", 
+  "GRO LAID": "00ME"
+ }, 
+ {
+  "name": "Wokingham District Council", 
+  "url": "http://www.wokingham.gov.uk/community-living/births-deaths-and-marriages", 
+  "postcode": "RG41 1RJ", 
+  "longlat": [
+   "-0.851979", 
+   "51.4179"
+  ], 
+  "address": "The Old School, Reading Road, Wokingham", 
+  "GRO LAID": "00MF"
+ }, 
+ {
+  "name": "Milton Keynes", 
+  "url": "http://www.mkweb.co.uk/registrars/home.asp ", 
+  "postcode": "MK2 2BE", 
+  "longlat": [
+   "-0.717362", 
+   "51.996557"
+  ], 
+  "address": "Bracknell House, Aylesbury Street, Bletchley", 
+  "GRO LAID": "00MG"
+ }, 
+ {
+  "name": "Brighton & Hove City Council", 
+  "url": "http://www.brighton-hove.gov.uk/site01.cfm?request=b1113986", 
+  "postcode": "BN1 1JA", 
+  "longlat": [
+   "-0.139581", 
+   "50.820856"
+  ], 
+  "address": "Town Hall, Bartholomew Square, Brighton", 
+  "GRO LAID": "00ML"
+ }, 
+ {
+  "name": "Portsmouth City Council", 
+  "url": "http://www.portsmouth.gov.uk/living/22.html", 
+  "postcode": "PO1 3AF", 
+  "longlat": [
+   "-1.098706", 
+   "50.796071"
+  ], 
+  "address": "Milldam House, Burnaby Road, Portsmouth", 
+  "GRO LAID": "00MR"
+ }, 
+ {
+  "name": "Southampton City Council", 
+  "url": "http://www.southampton.gov.uk/people/lifeevents/default.asp#0", 
+  "postcode": "SO14 2LX", 
+  "longlat": [
+   "-1.4062895", 
+   "50.8974856"
+  ], 
+  "address": "6a Bugle Street, Southampton, ", 
+  "GRO LAID": "00MS"
+ }, 
+ {
+  "name": "Isle of Wight Council", 
+  "url": "http://www.iwight.com/living_here/births_deaths_marriages/default.asp", 
+  "postcode": "PO31 8AZ", 
+  "longlat": [
+   "-1.304877", 
+   "50.76329"
+  ], 
+  "address": "Northwood House, Ward Avenue, Cowes", 
+  "GRO LAID": "00MW"
+ }, 
+ {
+  "name": "Isle of Anglesey County Council", 
+  "url": "http://www.anglesey.gov.uk/doc.asp?cat=2573", 
+  "postcode": "LL77 7TW", 
+  "longlat": [
+   "-4.3123848", 
+   "53.2566822"
+  ], 
+  "address": "Shire Hall, Glanhwfa Road, Llangefni", 
+  "GRO LAID": "00NA"
+ }, 
+ {
+  "name": "Gwynedd County Council", 
+  "url": "http://www.gwynedd.gov.uk/gwy_doc.asp?cat=3440&doc=13090&Language=1", 
+  "postcode": "LL55 1BN", 
+  "longlat": [
+   "-4.268737", 
+   "53.145112"
+  ], 
+  "address": "Swyddfa Arfon, Caernarfon, Gwynedd", 
+  "GRO LAID": "00NC"
+ }, 
+ {
+  "name": "Conwy County Borough Council", 
+  "url": "http://www.conwy.gov.uk/dratozdetail.asp?cat=112&doc=1119&azkey=r&offset=10&azid=403 ", 
+  "postcode": "LL30 2UP", 
+  "longlat": [
+   "-3.83287", 
+   "53.322775"
+  ], 
+  "address": "Lloyd Street, Llandudno, Conwy", 
+  "GRO LAID": "00NE"
+ }, 
+ {
+  "name": "Denbighshire County Council", 
+  "url": "http://www.denbighshire.gov.uk/en-gb/DNAP-74ZLKD", 
+  "postcode": "LL18 2AF", 
+  "longlat": [
+   "-3.49318", 
+   "53.314539"
+  ], 
+  "address": "Morfa Clwyd, Marsh Road, Rhyl", 
+  "GRO LAID": "00NG"
+ }, 
+ {
+  "name": "Flintshire County Council", 
+  "url": "http://www.flintshire.gov.uk/wps/portal/english/services?WCM_GLOBAL_CONTEXT=/Web%20Content/flintshire/english/services/100003/200067/llwynegrin+hall+register+office", 
+  "postcode": "CH7 6NW", 
+  "longlat": [
+   "-3.1423182", 
+   "53.1676933"
+  ], 
+  "address": "Llwynegrin Hall, Mold, Flintshire", 
+  "GRO LAID": "00NJ"
+ }, 
+ {
+  "name": "Wrexham County Borough Council", 
+  "url": "http://www.wrexham.gov.uk/english/life_events/bereavement/register_office.htm ", 
+  "postcode": "LL11 1NF", 
+  "longlat": [
+   "-2.9916733", 
+   "53.0469077"
+  ], 
+  "address": "Ty Dewi Sant, Rhosddu Road, Wrexham", 
+  "GRO LAID": "00NL"
+ }, 
+ {
+  "name": "Powys County Council", 
+  "url": "http://www.powys.gov.uk/index.php?id=39&L=0", 
+  "postcode": "LD1 5LG", 
+  "longlat": [
+   "-3.3736821", 
+   "52.1430868"
+  ], 
+  "address": "County Hall, Spa Road East, Powys", 
+  "GRO LAID": "00NN"
+ }, 
+ {
+  "name": "Ceredigion County Council", 
+  "url": "http://www.ceredigion.gov.uk/index.cfm?articleid=116&detailid=671", 
+  "postcode": "SA46 0PA", 
+  "longlat": [
+   "-4.0837984", 
+   "52.4161198"
+  ], 
+  "address": "Town Hall, Aberystwyth, Ceredigion", 
+  "GRO LAID": "00NQ"
+ }, 
+ {
+  "name": "Pembrokeshire County Council", 
+  "url": "http://www.pembrokeshire.gov.uk/content.asp?nav=&id=6038&Positioning_Article_ID=&Language=&parent_directory_id=516&d1=0 ", 
+  "postcode": "SA61 1SS", 
+  "longlat": [
+   "-4.97222", 
+   "51.801302"
+  ], 
+  "address": "Tower Hill, Haverfordwest, ", 
+  "GRO LAID": "00NS"
+ }, 
+ {
+  "name": "Carmarthenshire County Council", 
+  "url": "http://www.carmarthenshire.gov.uk/Pages/default.aspx ", 
+  "postcode": "SA31 1DS", 
+  "longlat": [
+   "-4.301997", 
+   "51.861089"
+  ], 
+  "address": "Parc Myrddyn, Richmond Terrace, Carmarthen", 
+  "GRO LAID": "00NU"
+ }, 
+ {
+  "name": "Swansea City and Borough Council", 
+  "url": "http://www.swansea.gov.uk/index.cfm?articleid=1458&contactid=2150 ", 
+  "postcode": "SA1 3SN", 
+  "longlat": [
+   "-3.9506007", 
+   "51.614351"
+  ], 
+  "address": "Civic Centre, Oystermouth Road, Swansea", 
+  "GRO LAID": "00NX"
+ }, 
+ {
+  "name": "Neath Port Talbot County Borough Council", 
+  "url": "http://www.npt.gov.uk/registrars/index.cfm", 
+  "postcode": "SA11 1HL", 
+  "longlat": [
+   "-3.8041219", 
+   "51.659332"
+  ], 
+  "address": "119 London Road, Neath, ", 
+  "GRO LAID": "00NZ"
+ }, 
+ {
+  "name": "Bridgend County Borough Council", 
+  "url": "http://www.bridgend.gov.uk/Web1/groups/public/documents/services/000856.hcsp#TopOfPage", 
+  "postcode": "CF31 4WB", 
+  "longlat": [
+   "-3.580408", 
+   "51.505805"
+  ], 
+  "address": "Civic Offices, Angel Street, Bridgend", 
+  "GRO LAID": "00PB"
+ }, 
+ {
+  "name": "Vale of Glamorgan Council", 
+  "url": "http://www.valeofglamorgan.gov.uk/living/life_in_the_community/registry_-_life_events.aspx", 
+  "postcode": "CF63 4RU", 
+  "longlat": [
+   "-3.2621815", 
+   "51.406913"
+  ], 
+  "address": "Civic Offices, Holton Road, Barry", 
+  "GRO LAID": "00PD"
+ }, 
+ {
+  "name": "Rhondda Cynon Taff County Borough Council", 
+  "url": "http://www.rhondda-cynon-taff.gov.uk/stellent/groups/public/documents/hcst/landing_page.hcst?lang=en&textonly=false&xNodeID=100003", 
+  "postcode": "CF44 7AE", 
+  "longlat": [
+   "-3.4450892", 
+   "51.713673"
+  ], 
+  "address": "One 4 All Centre, Rock Grounds, Aberdare", 
+  "GRO LAID": "00PF"
+ }, 
+ {
+  "name": "Merthyr Tydfil County Borough Council", 
+  "url": "http://www.merthyr.gov.uk/Home/Local+Services/Registrars+Births+Deaths+Marriages/Contact+Us.htm", 
+  "postcode": "CF47 8AT", 
+  "longlat": [
+   "-3.3790056", 
+   "51.7465787"
+  ], 
+  "address": "Castle House, Glebeland Street, Merthyr Tydfil", 
+  "GRO LAID": "00PH"
+ }, 
+ {
+  "name": "Caerphilly County Borough Council", 
+  "url": "http://www.caerphilly.gov.uk/registration/ ", 
+  "postcode": "CF82 7PG", 
+  "longlat": [
+   "-3.133086", 
+   "52.1742171"
+  ], 
+  "address": "Penallta House, Tredomen Park, Hengoed", 
+  "GRO LAID": "00PK"
+ }, 
+ {
+  "name": "Blaenau Gwent County Borough Council", 
+  "url": "http://www.blaenau-gwent.gov.uk/community.asp", 
+  "postcode": "NP2 3DS", 
+  "longlat": [
+   "-3.219513", 
+   "51.691902"
+  ], 
+  "address": "The Grove, Church Street, Tredegar", 
+  "GRO LAID": "00PL"
+ }, 
+ {
+  "name": "Torfaen County Borough Council", 
+  "url": "http://www.torfaen.gov.uk/CommunityAndLiving/Home.aspx", 
+  "postcode": "NP4 6YG", 
+  "longlat": [
+   "-3.05922", 
+   "51.709705"
+  ], 
+  "address": "Hanbury Road, Pontypool, ", 
+  "GRO LAID": "00PM"
+ }, 
+ {
+  "name": "Monmouthshire County Council", 
+  "url": "http://www.monmouthshire.gov.uk/Monmouth/English/Community_and_Living/Community/Births/ ", 
+  "postcode": "NP7 5LE", 
+  "longlat": [
+   "-3.010304", 
+   "51.820875"
+  ], 
+  "address": "Coed Glas, Coed Glas Lane, Abergavenny", 
+  "GRO LAID": "00PP"
+ }, 
+ {
+  "name": "Newport City Council", 
+  "url": "http://www.newport.gov.uk/_dc/index.cfm?fuseaction=registrars.homepage", 
+  "postcode": "NP20 4PH", 
+  "longlat": [
+   "-3.0029977", 
+   "51.5897595"
+  ], 
+  "address": "8 Gold Tops, Newport, South Wales", 
+  "GRO LAID": "00PR"
+ }, 
+ {
+  "name": "Cardiff Council", 
+  "url": "http://www.cardiff.gov.uk/content.asp?Parent_Directory_id=2865&nav=2867,2903,2915,4451", 
+  "postcode": "CF10 3LU", 
+  "longlat": [
+   "-3.1767818", 
+   "51.4862573"
+  ], 
+  "address": "48 Park Place, Cardiff, ", 
+  "GRO LAID": "00PT"
  }
 ]
