@@ -8,7 +8,7 @@ import json
 def get():
     results = []
     for c, result in enumerate(parse_groni.get()):
-	coord = geoloc.get(result['address'])
+	coord = geoloc.get(result['address'], result['postcode'])
 	result['longlat'] = coord
         results.append(result)
     	print c, result
