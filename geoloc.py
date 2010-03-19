@@ -28,9 +28,12 @@ def get_loc(location):
     status = location["Status"]["code"]
     if status != 200:
         return None, None
-    country_code = location["Placemark"][0]["AddressDetails"]["Country"]["CountryNameCode"]
-    if country_code != "GB":
-	return None, None
+    try:
+        country_code = location["Placemark"][0]["AddressDetails"]["Country"]["CountryNameCode"]
+        if country_code != "GB":
+	    return None, None
+    except KeyError:
+        pass
     longitude, latitude, height = location["Placemark"][0]["Point"]["coordinates"]
     if longitude is None:
         return None, None
