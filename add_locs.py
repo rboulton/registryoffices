@@ -18,5 +18,5 @@ def get():
 if __name__ == '__main__':
     data = get()
     fd = open('regoff.json', 'w')
-    fd.write(json.dumps(data))
+    fd.write(json.dumps(data, indent=True))
     fd.close()
