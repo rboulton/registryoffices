@@ -3,7 +3,6 @@
 import geoloc
 import parse_groni
 import parse_groenwales
-import time
 import json
 
 def parseall():
@@ -19,7 +18,6 @@ def get():
 	result['longlat'] = coord
         results.append(result)
     	print c, result
-	time.sleep(0.5)
     return results
 
 if __name__ == '__main__':
