@@ -105,7 +105,7 @@
  }, 
  {
   "fax": "028 9049 4525", 
-  "tel": "028 9049 4520/1", 
+  "tel": "028 9049 4520\/1", 
   "name": "CASTLEREAGH BOROUGH COUNCIL", 
   "hours": "Hours of Business (Monday-Friday) 09:30-12:30 & 14:00-16:30 (Friday 16:00)", 
   "postcode": "BT8 6RB", 
@@ -339,7 +339,7 @@
  }, 
  {
   "name": "Bedfordshire County Council", 
-  "url": "http://www.bedfordshire.gov.uk/AdviceAndBenefits/RegistrationOfBirthsMarriagesAndDeaths/RegistrationOfBirthsMarriagesAndDeaths.aspx", 
+  "url": "http:\/\/www.bedfordshire.gov.uk\/AdviceAndBenefits\/RegistrationOfBirthsMarriagesAndDeaths\/RegistrationOfBirthsMarriagesAndDeaths.aspx", 
   "postcode": "MK42 9AP", 
   "longlat": [
    "-0.4694078", 
@@ -350,7 +350,7 @@
  }, 
  {
   "name": "Buckinghamshire County Council", 
-  "url": "http://www.buckscc.gov.uk/registration/index.stm", 
+  "url": "http:\/\/www.buckscc.gov.uk\/registration\/index.stm", 
   "postcode": "HP20 1XF", 
   "longlat": [
    "-0.807856", 
@@ -361,7 +361,7 @@
  }, 
  {
   "name": "Cambridgeshire County Council", 
-  "url": "http://www.cambridgeshire.gov.uk/community/bmd/", 
+  "url": "http:\/\/www.cambridgeshire.gov.uk\/community\/bmd\/", 
   "postcode": "CB3 0A", 
   "longlat": [
    "0.1312368", 
@@ -372,7 +372,7 @@
  }, 
  {
   "name": "Cornwall Council", 
-  "url": "http://www.cornwall.gov.uk/registration", 
+  "url": "http:\/\/www.cornwall.gov.uk\/registration", 
   "postcode": "TR1 3AY", 
   "longlat": [
    "-5.066071", 
@@ -383,7 +383,7 @@
  }, 
  {
   "name": "Cumbria County Council", 
-  "url": "http://www.cumbria.gov.uk/registration/wheretofindus/default.asp", 
+  "url": "http:\/\/www.cumbria.gov.uk\/registration\/wheretofindus\/default.asp", 
   "postcode": "CA3 8NA", 
   "longlat": [
    "-2.934502", 
@@ -394,7 +394,7 @@
  }, 
  {
   "name": "Derbyshire County Council", 
-  "url": "http://www.derbyshire.gov.uk/community/births_marriages_deaths/", 
+  "url": "http:\/\/www.derbyshire.gov.uk\/community\/births_marriages_deaths\/", 
   "postcode": "DE4 3A", 
   "longlat": [
    "-1.55087", 
@@ -405,7 +405,7 @@
  }, 
  {
   "name": "Devon County Council", 
-  "url": "http://www.devon.gov.uk/index/community/the_people/registration_districts_in_devon.htm", 
+  "url": "http:\/\/www.devon.gov.uk\/index\/community\/the_people\/registration_districts_in_devon.htm", 
   "postcode": "EX2 4QD", 
   "longlat": [
    "-3.51913", 
@@ -416,7 +416,7 @@
  }, 
  {
   "name": "Dorset County Council", 
-  "url": "http://www.dorsetforyou.com/index.jsp?articleid=384327", 
+  "url": "http:\/\/www.dorsetforyou.com\/index.jsp?articleid=384327", 
   "postcode": "DT1 1XJ", 
   "longlat": [
    "-2.434011", 
@@ -427,7 +427,7 @@
  }, 
  {
   "name": "Durham Council", 
-  "url": "http://www.durham.gov.uk/durhamcc/usp.nsf/pws/Registrar+-+Register+Office+locations+and+contact+details", 
+  "url": "http:\/\/www.durham.gov.uk\/durhamcc\/usp.nsf\/pws\/Registrar+-+Register+Office+locations+and+contact+details", 
   "postcode": "DH1 3HN", 
   "longlat": [
    "-1.5690729", 
@@ -438,7 +438,7 @@
  }, 
  {
   "name": "East Sussex County Council", 
-  "url": "http://www.eastsussex.gov.uk/community/", 
+  "url": "http:\/\/www.eastsussex.gov.uk\/community\/", 
   "postcode": "BN7 1UE", 
   "longlat": [
    "0.0178577", 
@@ -449,7 +449,7 @@
  }, 
  {
   "name": "Essex County Council", 
-  "url": "http://www.essexcc.gov.uk/vip8/ecc/ECCWebsite/display/channels/births_marriages_deaths_channel_640771_Living/contacts/index.jsp", 
+  "url": "http:\/\/www.essexcc.gov.uk\/vip8\/ecc\/ECCWebsite\/display\/channels\/births_marriages_deaths_channel_640771_Living\/contacts\/index.jsp", 
   "postcode": "CM1 IGF", 
   "longlat": [
    "0.4705237", 
@@ -460,7 +460,7 @@
  }, 
  {
   "name": "Gloucestershire County Council", 
-  "url": "http://www.gloucestershire.gov.uk/index.cfm?ArticleID=150", 
+  "url": "http:\/\/www.gloucestershire.gov.uk\/index.cfm?ArticleID=150", 
   "postcode": "GL1 2TG", 
   "longlat": [
    "-2.2520291", 
@@ -471,7 +471,7 @@
  }, 
  {
   "name": "Hampshire County Council", 
-  "url": "http://www3.hants.gov.uk/registration/registration-contact.htm", 
+  "url": "http:\/\/www3.hants.gov.uk\/registration\/registration-contact.htm", 
   "postcode": "SO23 8ZB", 
   "longlat": [
    "-1.319368", 
@@ -482,7 +482,7 @@
  }, 
  {
   "name": "Hertfordshire County Council", 
-  "url": "http://www.hertsdirect.org/comdirectory/register/contactreg/", 
+  "url": "http:\/\/www.hertsdirect.org\/comdirectory\/register\/contactreg\/", 
   "postcode": "AL10 0NG", 
   "longlat": [
    "-0.3310489", 
@@ -493,7 +493,7 @@
  }, 
  {
   "name": "Kent County Council", 
-  "url": "http://www.kent.gov.uk/Community/births-marriages-and-deaths/our-services/local-offices/", 
+  "url": "http:\/\/www.kent.gov.uk\/Community\/births-marriages-and-deaths\/our-services\/local-offices\/", 
   "postcode": "ME14 1XX", 
   "longlat": [
    "0.523841", 
@@ -504,7 +504,7 @@
  }, 
  {
   "name": "Lancashire County Council", 
-  "url": "http://www.lancashire.gov.uk/acs/sites/registration/contact/index.asp", 
+  "url": "http:\/\/www.lancashire.gov.uk\/acs\/sites\/registration\/contact\/index.asp", 
   "postcode": "PR1 8SE", 
   "longlat": [
    "-2.711639", 
@@ -515,7 +515,7 @@
  }, 
  {
   "name": "Leicestershire County Council", 
-  "url": "http://www.leicestershire.gov.uk/registration_services", 
+  "url": "http:\/\/www.leicestershire.gov.uk\/registration_services", 
   "postcode": "LE3 8RN", 
   "longlat": [
    "-1.19102", 
@@ -526,7 +526,7 @@
  }, 
  {
   "name": "Lincolnshire County Council", 
-  "url": "http://www.lincolnshire.gov.uk/index.asp?catId=2944", 
+  "url": "http:\/\/www.lincolnshire.gov.uk\/index.asp?catId=2944", 
   "postcode": "LN2 1NN", 
   "longlat": [
    "-0.5331422", 
@@ -537,7 +537,7 @@
  }, 
  {
   "name": "Norfolk County Council", 
-  "url": "http://www.norfolk.gov.uk/consumption/idcplg?IdcService=SS_GET_PAGE&ssDocName=NCC006792&ssSourceNodeId=&ssTargetNodeId=54", 
+  "url": "http:\/\/www.norfolk.gov.uk\/consumption\/idcplg?IdcService=SS_GET_PAGE&ssDocName=NCC006792&ssSourceNodeId=&ssTargetNodeId=54", 
   "postcode": "NR2 1NR", 
   "longlat": [
    "1.2876176", 
@@ -548,7 +548,7 @@
  }, 
  {
   "name": "Northamptonshire County Council", 
-  "url": "http://www3.northamptonshire.gov.uk/Community/Registration/reg_home.htm", 
+  "url": "http:\/\/www3.northamptonshire.gov.uk\/Community\/Registration\/reg_home.htm", 
   "postcode": "NN1 1UE", 
   "longlat": [
    "-0.8911748", 
@@ -559,7 +559,7 @@
  }, 
  {
   "name": "Northumberland Council", 
-  "url": "http://www.northumberland.gov.uk/register/register-office.asp", 
+  "url": "http:\/\/www.northumberland.gov.uk\/register\/register-office.asp", 
   "postcode": "NE61 1BU", 
   "longlat": [
    "-1.6929701", 
@@ -570,7 +570,7 @@
  }, 
  {
   "name": "North Yorkshire County Council", 
-  "url": "http://www.northyorks.gov.uk/index.aspx?articleid=2849", 
+  "url": "http:\/\/www.northyorks.gov.uk\/index.aspx?articleid=2849", 
   "postcode": "HG1 5AG", 
   "longlat": [
    "-1.5274555", 
@@ -581,7 +581,7 @@
  }, 
  {
   "name": "Nottinghamshire County Council", 
-  "url": "http://www.nottinghamshire.gov.uk/home/youandyourcommunity/registrars/registeroffices.htm", 
+  "url": "http:\/\/www.nottinghamshire.gov.uk\/home\/youandyourcommunity\/registrars\/registeroffices.htm", 
   "postcode": "NG4 3AR", 
   "longlat": [
    "-1.0811409", 
@@ -592,7 +592,7 @@
  }, 
  {
   "name": "Oxfordshire County Council", 
-  "url": "http://www.oxfordshire.gov.uk/registration", 
+  "url": "http:\/\/www.oxfordshire.gov.uk\/registration", 
   "postcode": "OX1 1NS", 
   "longlat": [
    "-1.2640575", 
@@ -603,7 +603,7 @@
  }, 
  {
   "name": "Shropshire Council", 
-  "url": "http://www.shropshire.gov.uk/registrar.nsf/open/4F3206F3069D0B7780256D1E004B347D", 
+  "url": "http:\/\/www.shropshire.gov.uk\/registrar.nsf\/open\/4F3206F3069D0B7780256D1E004B347D", 
   "postcode": "SY2 5NY", 
   "longlat": [
    "-2.726205", 
@@ -614,7 +614,7 @@
  }, 
  {
   "name": "Somerset County Council", 
-  "url": "http://www.somerset.gov.uk/somerset/resources/registrationservice/registerofficesandopeninghours/", 
+  "url": "http:\/\/www.somerset.gov.uk\/somerset\/resources\/registrationservice\/registerofficesandopeninghours\/", 
   "postcode": "TA1 4AQ", 
   "longlat": [
    "-3.104976", 
@@ -625,7 +625,7 @@
  }, 
  {
   "name": "Staffordshire County Council", 
-  "url": "http://www.staffordshire.gov.uk/community/lifeevents/registry/", 
+  "url": "http:\/\/www.staffordshire.gov.uk\/community\/lifeevents\/registry\/", 
   "postcode": "ST16 2NG", 
   "longlat": [
    "-2.1153625", 
@@ -636,7 +636,7 @@
  }, 
  {
   "name": "Suffolk County Council", 
-  "url": "http://www.suffolkcc.gov.uk/registerservice/other/about_suff_reg_off_grph.html", 
+  "url": "http:\/\/www.suffolkcc.gov.uk\/registerservice\/other\/about_suff_reg_off_grph.html", 
   "postcode": "IP4 1LP", 
   "longlat": [
    "1.1630504", 
@@ -647,7 +647,7 @@
  }, 
  {
   "name": "Surrey County Council", 
-  "url": "http://www.surreycc.gov.uk/sccwebsite/sccwspages.nsf/LookupWebPagesByTITLE_RTF/District+register+offices?opendocument", 
+  "url": "http:\/\/www.surreycc.gov.uk\/sccwebsite\/sccwspages.nsf\/LookupWebPagesByTITLE_RTF\/District+register+offices?opendocument", 
   "postcode": "KT1 2DN", 
   "longlat": [
    "-0.3041346", 
@@ -658,7 +658,7 @@
  }, 
  {
   "name": "Warwickshire County Council", 
-  "url": "http://www.warwickshire.gov.uk/Web/corporate/pages.nsf/links/55694AAF0C0A93D3802573840040895D ", 
+  "url": "http:\/\/www.warwickshire.gov.uk\/Web\/corporate\/pages.nsf\/links\/55694AAF0C0A93D3802573840040895D ", 
   "postcode": "CV34 4RR", 
   "longlat": [
    "-1.215219", 
@@ -669,7 +669,7 @@
  }, 
  {
   "name": "West Sussex County Council", 
-  "url": "http://www.westsussex.gov.uk/ccm/content/births-deaths-and-marriages/register-offices.en", 
+  "url": "http:\/\/www.westsussex.gov.uk\/ccm\/content\/births-deaths-and-marriages\/register-offices.en", 
   "postcode": "PO19 1RQ", 
   "longlat": [
    "-1.239279", 
@@ -680,7 +680,7 @@
  }, 
  {
   "name": "Wiltshire Council", 
-  "url": "http://www.wiltshire.gov.uk/registration-office-contact-details.htm", 
+  "url": "http:\/\/www.wiltshire.gov.uk\/registration-office-contact-details.htm", 
   "postcode": "BA14 8EZ", 
   "longlat": [
    "-2.210401", 
@@ -691,7 +691,7 @@
  }, 
  {
   "name": "Worcestershire County Council", 
-  "url": "http://worcestershire.whub.org.uk/home/wcc-mas-proper-officer-functions.htm", 
+  "url": "http:\/\/worcestershire.whub.org.uk\/home\/wcc-mas-proper-officer-functions.htm", 
   "postcode": "WR5 2NP", 
   "longlat": [
    "-2.185708", 
@@ -702,7 +702,7 @@
  }, 
  {
   "name": "Isles of Scilly", 
-  "url": "http://www.scilly.gov.uk/community/", 
+  "url": "http:\/\/www.scilly.gov.uk\/community\/", 
   "postcode": "TR21 0LW ", 
   "longlat": [
    "-6.298672", 
@@ -713,7 +713,7 @@
  }, 
  {
   "name": "Cheshire East Council", 
-  "url": "http://www.cheshireeast.gov.uk/Default.aspx", 
+  "url": "http:\/\/www.cheshireeast.gov.uk\/Default.aspx", 
   "postcode": "SK10 1DP", 
   "longlat": [
    "-2.1281898", 
@@ -724,7 +724,7 @@
  }, 
  {
   "name": "Cheshire West and Chester Council", 
-  "url": "http://www.cheshirewestandchester.gov.uk/community_and_living/int_registration.aspx", 
+  "url": "http:\/\/www.cheshirewestandchester.gov.uk\/community_and_living\/int_registration.aspx", 
   "postcode": "CH1 1SF", 
   "longlat": [
    "-2.550527", 
@@ -735,7 +735,7 @@
  }, 
  {
   "name": "Central Bedfordshire Council", 
-  "url": "http://www.centralbeds.gov.uk/", 
+  "url": "http:\/\/www.centralbeds.gov.uk\/", 
   "postcode": "SG17 5TQ", 
   "longlat": [
    "-0.3477692", 
@@ -746,7 +746,7 @@
  }, 
  {
   "name": "City of London", 
-  "url": "http://www.cityoflondon.gov.uk/Corporation/LGNL_Services/Community_and_living/", 
+  "url": "http:\/\/www.cityoflondon.gov.uk\/Corporation\/LGNL_Services\/Community_and_living\/", 
   "postcode": "EC2Y 9BJ", 
   "longlat": [
    "-0.0904054", 
@@ -757,7 +757,7 @@
  }, 
  {
   "name": "London Borough of Barking and Dagenham", 
-  "url": "http://www.barking-dagenham.gov.uk/8-leisure-envir/bdm-reg/bdm-menu.html", 
+  "url": "http:\/\/www.barking-dagenham.gov.uk\/8-leisure-envir\/bdm-reg\/bdm-menu.html", 
   "postcode": "IG11 8SY", 
   "longlat": [
    "0.0912244", 
@@ -768,7 +768,7 @@
  }, 
  {
   "name": "London Borough of Barnet", 
-  "url": "http://www.registeroffice.barnet.gov.uk", 
+  "url": "http:\/\/www.registeroffice.barnet.gov.uk", 
   "postcode": "HA8 0AU", 
   "longlat": [
    "-0.2743476", 
@@ -779,7 +779,7 @@
  }, 
  {
   "name": "London Borough of Bexley", 
-  "url": "http://www.bexley.gov.uk/service/registrars/index.html", 
+  "url": "http:\/\/www.bexley.gov.uk\/service\/registrars\/index.html", 
   "postcode": "DA14 6BW", 
   "longlat": [
    "0.102763", 
@@ -790,7 +790,7 @@
  }, 
  {
   "name": "London Borough of Brent", 
-  "url": "http://www.brent.gov.uk/registrar.nsf", 
+  "url": "http:\/\/www.brent.gov.uk\/registrar.nsf", 
   "postcode": "HA9 9HD", 
   "longlat": [
    "-0.285642", 
@@ -801,7 +801,7 @@
  }, 
  {
   "name": "London Borough of Bromley", 
-  "url": "http://www.bromley.gov.uk/community/BirthsDeathsMarriagesPartnerships/brom_registration_service.htm", 
+  "url": "http:\/\/www.bromley.gov.uk\/community\/BirthsDeathsMarriagesPartnerships\/brom_registration_service.htm", 
   "postcode": "BR1 3UH\u00a0", 
   "longlat": [
    "0.019481", 
@@ -812,7 +812,7 @@
  }, 
  {
   "name": "London Borough of Camden", 
-  "url": "http://www.camden.gov.uk/ccm/navigation/community-and-living/births--deaths-and-marriages/", 
+  "url": "http:\/\/www.camden.gov.uk\/ccm\/navigation\/community-and-living\/births--deaths-and-marriages\/", 
   "postcode": "WC1H 9JE", 
   "longlat": [
    "-0.125022", 
@@ -823,7 +823,7 @@
  }, 
  {
   "name": "London Borough of Croydon", 
-  "url": "http://www.croydon.gov.uk/community/registeroffice/", 
+  "url": "http:\/\/www.croydon.gov.uk\/community\/registeroffice\/", 
   "postcode": "CR0 1EA", 
   "longlat": [
    "-0.099351", 
@@ -834,7 +834,7 @@
  }, 
  {
   "name": "London Borough of Ealing", 
-  "url": "http://www.ealing.gov.uk/services/community/births_deaths_marriages/", 
+  "url": "http:\/\/www.ealing.gov.uk\/services\/community\/births_deaths_marriages\/", 
   "postcode": "W5 2BY", 
   "longlat": [
    "-0.3062647", 
@@ -845,7 +845,7 @@
  }, 
  {
   "name": "London Borough of Enfield", 
-  "url": "http://www.enfield.gov.uk/319/index319.htm", 
+  "url": "http:\/\/www.enfield.gov.uk\/319\/index319.htm", 
   "postcode": "EN2 6PS", 
   "longlat": [
    "-0.0870471", 
@@ -856,7 +856,7 @@
  }, 
  {
   "name": "London Borough of Greenwich", 
-  "url": "http://www.greenwich.gov.uk/Greenwich/CommunityLiving/BirthsDeathsMarriages/", 
+  "url": "http:\/\/www.greenwich.gov.uk\/Greenwich\/CommunityLiving\/BirthsDeathsMarriages\/", 
   "postcode": "SE18 6PW", 
   "longlat": [
    "0.0647926", 
@@ -867,7 +867,7 @@
  }, 
  {
   "name": "London Borough of Hackney", 
-  "url": "http://www.hackney.gov.uk/print/lr-registrars", 
+  "url": "http:\/\/www.hackney.gov.uk\/print\/lr-registrars", 
   "postcode": "E8 1EA", 
   "longlat": [
    "-0.0690186", 
@@ -878,7 +878,7 @@
  }, 
  {
   "name": "London Borough of Hammersmith & Fulham", 
-  "url": "http://www.lbhf.gov.uk/Directory/Community_and_Living/", 
+  "url": "http:\/\/www.lbhf.gov.uk\/Directory\/Community_and_Living\/", 
   "postcode": "SW6 1ET", 
   "longlat": [
    "-0.1986131", 
@@ -889,7 +889,7 @@
  }, 
  {
   "name": "London Borough of Haringey", 
-  "url": "http://www.haringey.gov.uk/sq/services/bdm.htm", 
+  "url": "http:\/\/www.haringey.gov.uk\/sq\/services\/bdm.htm", 
   "postcode": "N22 8LE", 
   "longlat": [
    "-0.111016", 
@@ -900,7 +900,7 @@
  }, 
  {
   "name": "London Borough of Harrow", 
-  "url": "http://www.harrow.gov.uk/site/scripts/documents.php?categoryID=100003", 
+  "url": "http:\/\/www.harrow.gov.uk\/site\/scripts\/documents.php?categoryID=100003", 
   "postcode": "HA1 2XF", 
   "longlat": [
    "-0.334284", 
@@ -911,7 +911,7 @@
  }, 
  {
   "name": "London Borough of Havering", 
-  "url": "http://www.havering.gov.uk/index.cfm?articleid=2435&contactid=2404", 
+  "url": "http:\/\/www.havering.gov.uk\/index.cfm?articleid=2435&contactid=2404", 
   "postcode": "RM11 1XL", 
   "longlat": [
    "0.21861", 
@@ -922,7 +922,7 @@
  }, 
  {
   "name": "London Borough of Hillingdon", 
-  "url": "http://www.hillingdon.gov.uk/index.jsp?articleid=9657", 
+  "url": "http:\/\/www.hillingdon.gov.uk\/index.jsp?articleid=9657", 
   "postcode": "UB8 1UW", 
   "longlat": [
    "-0.4790935", 
@@ -933,7 +933,7 @@
  }, 
  {
   "name": "London Borough of Hounslow", 
-  "url": "http://www.hounslow.gov.uk/index/community_and_living.htm", 
+  "url": "http:\/\/www.hounslow.gov.uk\/index\/community_and_living.htm", 
   "postcode": "TW3 4DW", 
   "longlat": [
    "-0.3660087", 
@@ -944,7 +944,7 @@
  }, 
  {
   "name": "London Borough of Islington", 
-  "url": "http://www.islington.gov.uk/Community/birthsdeathsandmarriages/default.asp", 
+  "url": "http:\/\/www.islington.gov.uk\/Community\/birthsdeathsandmarriages\/default.asp", 
   "postcode": "N1 2UD", 
   "longlat": [
    "-0.0833382", 
@@ -955,7 +955,7 @@
  }, 
  {
   "name": "Royal Borough of Kensington and Chelsea", 
-  "url": "http://www.rbkc.gov.uk/BirthsDeathsAndMarriages/General/default.asp", 
+  "url": "http:\/\/www.rbkc.gov.uk\/BirthsDeathsAndMarriages\/General\/default.asp", 
   "postcode": "SW3 5EE", 
   "longlat": [
    "-0.1541228", 
@@ -966,7 +966,7 @@
  }, 
  {
   "name": "London Borough of Kingston upon Thames", 
-  "url": "http://www.kingston.gov.uk/community,_people_and_living/rbdm.htm", 
+  "url": "http:\/\/www.kingston.gov.uk\/community,_people_and_living\/rbdm.htm", 
   "postcode": "KT2 7BA", 
   "longlat": [
    "-0.257193", 
@@ -977,7 +977,7 @@
  }, 
  {
   "name": "London Borough of Lambeth", 
-  "url": "http://www.lambeth.gov.uk/Services/CommunityLiving/CivilCeremonies/RegisterOffice.htm", 
+  "url": "http:\/\/www.lambeth.gov.uk\/Services\/CommunityLiving\/CivilCeremonies\/RegisterOffice.htm", 
   "postcode": "SW2 1RW", 
   "longlat": [
    "-0.119175", 
@@ -988,7 +988,7 @@
  }, 
  {
   "name": "London Borough of Lewisham", 
-  "url": "http://www.lewisham.gov.uk/CommunityAndLiving/BirthsDeathsAndMarriages/", 
+  "url": "http:\/\/www.lewisham.gov.uk\/CommunityAndLiving\/BirthsDeathsAndMarriages\/", 
   "postcode": "SE13 6LQ", 
   "longlat": [
    "0.0107304", 
@@ -999,7 +999,7 @@
  }, 
  {
   "name": "London Borough of Merton", 
-  "url": "http://www.merton.gov.uk/register/", 
+  "url": "http:\/\/www.merton.gov.uk\/register\/", 
   "postcode": "SM4 5QU", 
   "longlat": [
    "-0.1986", 
@@ -1010,7 +1010,7 @@
  }, 
  {
   "name": "London Borough of Newham", 
-  "url": "http://www.newham.gov.uk/Services/RegisterOffice/intouch.htm ", 
+  "url": "http:\/\/www.newham.gov.uk\/Services\/RegisterOffice\/intouch.htm ", 
   "postcode": "E6 1BT", 
   "longlat": [
    "0.0456703", 
@@ -1021,7 +1021,7 @@
  }, 
  {
   "name": "London Borough of Redbridge", 
-  "url": "http://www.redbridge.gov.uk/cms/a_to_z_of_services/r/register_office.aspx", 
+  "url": "http:\/\/www.redbridge.gov.uk\/cms\/a_to_z_of_services\/r\/register_office.aspx", 
   "postcode": "IG6 1JS", 
   "longlat": [
    "0.0782876", 
@@ -1032,7 +1032,7 @@
  }, 
  {
   "name": "London Borough of Richmond upon Thames", 
-  "url": "http://www.richmond.gov.uk/home/community_and_living/birth_marriage_and_death.htm", 
+  "url": "http:\/\/www.richmond.gov.uk\/home\/community_and_living\/birth_marriage_and_death.htm", 
   "postcode": "TW9 1LW", 
   "longlat": [
    "-0.362363", 
@@ -1043,7 +1043,7 @@
  }, 
  {
   "name": "London Borough of Southwark", 
-  "url": "http://www.southwark.gov.uk/YourServices/BirthsDeathsMarriages/", 
+  "url": "http:\/\/www.southwark.gov.uk\/YourServices\/BirthsDeathsMarriages\/", 
   "postcode": "SE5 8QA", 
   "longlat": [
    "-0.0828999", 
@@ -1054,7 +1054,7 @@
  }, 
  {
   "name": "London Borough of Sutton", 
-  "url": "http://www.sutton.gov.uk/index.aspx?articleid=3555", 
+  "url": "http:\/\/www.sutton.gov.uk\/index.aspx?articleid=3555", 
   "postcode": "SM2 6PR", 
   "longlat": [
    "-0.1978048", 
@@ -1065,7 +1065,7 @@
  }, 
  {
   "name": "London Borough of Tower Hamlets", 
-  "url": "http://www.towerhamlets.gov.uk/lgnl/community_and_living1.aspx", 
+  "url": "http:\/\/www.towerhamlets.gov.uk\/lgnl\/community_and_living1.aspx", 
   "postcode": "E3 3AA", 
   "longlat": [
    "-0.021048", 
@@ -1076,7 +1076,7 @@
  }, 
  {
   "name": "London Borough of Waltham Forest", 
-  "url": "http://www.walthamforest.gov.uk/register-office.htm", 
+  "url": "http:\/\/www.walthamforest.gov.uk\/register-office.htm", 
   "postcode": "E17 9BY", 
   "longlat": [
    "-0.0112371", 
@@ -1087,7 +1087,7 @@
  }, 
  {
   "name": "London Borough of Wandsworth", 
-  "url": "http://www.wandsworth.gov.uk/Home/CommunityServices/RegisterOffice/default.htm ", 
+  "url": "http:\/\/www.wandsworth.gov.uk\/Home\/CommunityServices\/RegisterOffice\/default.htm ", 
   "postcode": "SW18 2PU", 
   "longlat": [
    "-0.1930119", 
@@ -1098,7 +1098,7 @@
  }, 
  {
   "name": "London Borough of Westminster", 
-  "url": "http://www.westminster.gov.uk/communityandliving/registrar/", 
+  "url": "http:\/\/www.westminster.gov.uk\/communityandliving\/registrar\/", 
   "postcode": "NW1 5PT", 
   "longlat": [
    "-0.163836", 
@@ -1109,7 +1109,7 @@
  }, 
  {
   "name": "Bolton Metropolitan Borough Council", 
-  "url": "http://www.bolton.gov.uk", 
+  "url": "http:\/\/www.bolton.gov.uk", 
   "postcode": "BL1 2QT", 
   "longlat": [
    "-2.4394158", 
@@ -1120,7 +1120,7 @@
  }, 
  {
   "name": "Bury Metropolitan Borough Council", 
-  "url": "http://www.bury.gov.uk/LifeEvents/Default.htm", 
+  "url": "http:\/\/www.bury.gov.uk\/LifeEvents\/Default.htm", 
   "postcode": "BL9 0SW", 
   "longlat": [
    "-2.2552539", 
@@ -1131,7 +1131,7 @@
  }, 
  {
   "name": "Manchester City Council", 
-  "url": "http://www.manchester.gov.uk/registrars/", 
+  "url": "http:\/\/www.manchester.gov.uk\/registrars\/", 
   "postcode": "M2 5LE", 
   "longlat": [
    "-2.2470997", 
@@ -1142,7 +1142,7 @@
  }, 
  {
   "name": "Oldham Metropolitan Borough Council", 
-  "url": "http://www.oldham.gov.uk/a-z_of_services/cs-registrars.htm ", 
+  "url": "http:\/\/www.oldham.gov.uk\/a-z_of_services\/cs-registrars.htm ", 
   "postcode": "OL9 6PP", 
   "longlat": [
    "-2.13784", 
@@ -1153,7 +1153,7 @@
  }, 
  {
   "name": "Rochdale Metropolitan Borough Council", 
-  "url": "http://www.rochdale.gov.uk/community_and_living/births/birth_-_historical_searches.aspx", 
+  "url": "http:\/\/www.rochdale.gov.uk\/community_and_living\/births\/birth_-_historical_searches.aspx", 
   "postcode": "OL16 1AB", 
   "longlat": [
    "-2.1587102", 
@@ -1164,7 +1164,7 @@
  }, 
  {
   "name": "Salford City Council", 
-  "url": "http://www.salford.gov.uk/bmd.htm ", 
+  "url": "http:\/\/www.salford.gov.uk\/bmd.htm ", 
   "postcode": "M27 5DA", 
   "longlat": [
    "-2.33931", 
@@ -1175,7 +1175,7 @@
  }, 
  {
   "name": "Stockport Metropolitan Borough Council", 
-  "url": "http://www.stockport.gov.uk/content/communitypeopleliving/lifeevents/stockportregisteroffice/?a=5441 ", 
+  "url": "http:\/\/www.stockport.gov.uk\/content\/communitypeopleliving\/lifeevents\/stockportregisteroffice\/?a=5441 ", 
   "postcode": "SK1 3XE", 
   "longlat": [
    "-2.1492931", 
@@ -1186,7 +1186,7 @@
  }, 
  {
   "name": "Tameside Metropolitan Borough Council", 
-  "url": "http://www.tameside.gov.uk/tmbc2/registrarsoffice.htm ", 
+  "url": "http:\/\/www.tameside.gov.uk\/tmbc2\/registrarsoffice.htm ", 
   "postcode": "SK16 4LA", 
   "longlat": [
    "-2.09292", 
@@ -1197,7 +1197,7 @@
  }, 
  {
   "name": "Trafford Metropolitan Borough Council", 
-  "url": "http://www.trafford.gov.uk/CommunityAndLiving", 
+  "url": "http:\/\/www.trafford.gov.uk\/CommunityAndLiving", 
   "postcode": "M33 7ZF", 
   "longlat": [
    "-2.293648", 
@@ -1208,7 +1208,7 @@
  }, 
  {
   "name": "Wigan Metropolitan Borough Council", 
-  "url": "http://www.wigan.gov.uk/Services/CommunityLiving/BirthsDeathsMarriages/", 
+  "url": "http:\/\/www.wigan.gov.uk\/Services\/CommunityLiving\/BirthsDeathsMarriages\/", 
   "postcode": "WN1 1YN", 
   "longlat": [
    "-2.63077", 
@@ -1219,7 +1219,7 @@
  }, 
  {
   "name": "Knowsley Metropolitan Borough Council", 
-  "url": "http://www.knowsley.gov.uk/residents/births,-deaths,-and-marriages.aspx", 
+  "url": "http:\/\/www.knowsley.gov.uk\/residents\/births,-deaths,-and-marriages.aspx", 
   "postcode": "L34 3LH", 
   "longlat": [
    "-2.8047521", 
@@ -1230,7 +1230,7 @@
  }, 
  {
   "name": "Liverpool City Council", 
-  "url": "http://www.liverpool.gov.uk/registrars_office/index.asp", 
+  "url": "http:\/\/www.liverpool.gov.uk\/registrars_office\/index.asp", 
   "postcode": "L3 9UF", 
   "longlat": [
    "-2.9949146", 
@@ -1241,7 +1241,7 @@
  }, 
  {
   "name": "St Helens Metropolitan Borough Council", 
-  "url": "http://www.sthelens.gov.uk/CMSWEB/item.do?parentID=100001&category=200010&itemid=319", 
+  "url": "http:\/\/www.sthelens.gov.uk\/CMSWEB\/item.do?parentID=100001&category=200010&itemid=319", 
   "postcode": "WA10 1UJ", 
   "longlat": [
    "-2.736209", 
@@ -1252,7 +1252,7 @@
  }, 
  {
   "name": "Sefton Metropolitan Borough Council", 
-  "url": "http://www.sefton.gov.uk/Default.aspx?page=1746", 
+  "url": "http:\/\/www.sefton.gov.uk\/Default.aspx?page=1746", 
   "postcode": "PR8 1DA", 
   "longlat": [
    "-3.0356872", 
@@ -1263,7 +1263,7 @@
  }, 
  {
   "name": "Wirral Council", 
-  "url": "http://www.wirral.gov.uk/LGCL/100003/", 
+  "url": "http:\/\/www.wirral.gov.uk\/LGCL\/100003\/", 
   "postcode": "CH44 8ED", 
   "longlat": [
    "-3.022361", 
@@ -1274,7 +1274,7 @@
  }, 
  {
   "name": "Barnsley Metropolitan Borough Council", 
-  "url": "http://www.barnsley.gov.uk/bguk/Community/Registrars", 
+  "url": "http:\/\/www.barnsley.gov.uk\/bguk\/Community\/Registrars", 
   "postcode": "S70 2TA", 
   "longlat": [
    "-1.482162", 
@@ -1285,7 +1285,7 @@
  }, 
  {
   "name": "Doncaster Metropolitan Borough Council", 
-  "url": "http://www.doncaster.gov.uk/Living_in_Doncaster/Life_Events/Life_Events.asp?lifeevents", 
+  "url": "http:\/\/www.doncaster.gov.uk\/Living_in_Doncaster\/Life_Events\/Life_Events.asp?lifeevents", 
   "postcode": "DN1 2EB", 
   "longlat": [
    "-1.1337622", 
@@ -1296,7 +1296,7 @@
  }, 
  {
   "name": "Rotherham Metropolitan Borough Council", 
-  "url": "http://www.rotherham.gov.uk/graphics/YourCouncil/Register+Office/ ", 
+  "url": "http:\/\/www.rotherham.gov.uk\/graphics\/YourCouncil\/Register+Office\/ ", 
   "postcode": "S60 1TX", 
   "longlat": [
    "-1.3549385", 
@@ -1307,7 +1307,7 @@
  }, 
  {
   "name": "Sheffield City Council", 
-  "url": "http://www.sheffield.gov.uk/your-city-council/register-office", 
+  "url": "http:\/\/www.sheffield.gov.uk\/your-city-council\/register-office", 
   "postcode": "S1 2HH", 
   "longlat": [
    "-1.47022", 
@@ -1318,7 +1318,7 @@
  }, 
  {
   "name": "Gateshead Metropolitan Borough Council", 
-  "url": "http://www.gateshead.gov.uk/People%20and%20Living/marriages/Home.aspx", 
+  "url": "http:\/\/www.gateshead.gov.uk\/People%20and%20Living\/marriages\/Home.aspx", 
   "postcode": "NE8 1HH", 
   "longlat": [
    "-1.603215", 
@@ -1329,7 +1329,7 @@
  }, 
  {
   "name": "Newcastle-upon-Tyne City Council", 
-  "url": "http://www.newcastle.gov.uk/registrars.nsf/a/homepage?opendocument ", 
+  "url": "http:\/\/www.newcastle.gov.uk\/registrars.nsf\/a\/homepage?opendocument ", 
   "postcode": "NE1 8PS", 
   "longlat": [
    "-1.610028", 
@@ -1340,7 +1340,7 @@
  }, 
  {
   "name": "North Tyneside Metropolitan Borough Council", 
-  "url": "http://www.northtyneside.gov.uk/browse.shtml?p_subjectCategory=366", 
+  "url": "http:\/\/www.northtyneside.gov.uk\/browse.shtml?p_subjectCategory=366", 
   "postcode": "NE30 1LZ", 
   "longlat": [
    "-1.443638", 
@@ -1351,7 +1351,7 @@
  }, 
  {
   "name": "South Tyneside Council", 
-  "url": "http://www.southtyneside.info/communitysupport/register/default.asp", 
+  "url": "http:\/\/www.southtyneside.info\/communitysupport\/register\/default.asp", 
   "postcode": "NE33 2RN", 
   "longlat": [
    "-1.4276747", 
@@ -1362,7 +1362,7 @@
  }, 
  {
   "name": "Sunderland City Council", 
-  "url": "http://www.sunderland.gov.uk/Public/Editable/Life-Episodes/BDM/birth/opening_hours.asp?AltCrumb=When%20can%20I%20register%20the%20birth?", 
+  "url": "http:\/\/www.sunderland.gov.uk\/Public\/Editable\/Life-Episodes\/BDM\/birth\/opening_hours.asp?AltCrumb=When%20can%20I%20register%20the%20birth?", 
   "postcode": "SR2 7DN", 
   "longlat": [
    "-1.38146", 
@@ -1373,7 +1373,7 @@
  }, 
  {
   "name": "Birmingham City Council", 
-  "url": "http://www.birmingham.gov.uk/registeroffice.bcc", 
+  "url": "http:\/\/www.birmingham.gov.uk\/registeroffice.bcc", 
   "postcode": "B1 1TJ ", 
   "longlat": [
    "-1.893592", 
@@ -1384,7 +1384,7 @@
  }, 
  {
   "name": "Coventry City Council", 
-  "url": "http://www.coventry.gov.uk/ccm/navigation/council--government-and-democracy/council/register-office/", 
+  "url": "http:\/\/www.coventry.gov.uk\/ccm\/navigation\/council--government-and-democracy\/council\/register-office\/", 
   "postcode": "CV1 2ND", 
   "longlat": [
    "-1.5126083", 
@@ -1395,7 +1395,7 @@
  }, 
  {
   "name": "Dudley Metropolitan Borough Council", 
-  "url": "http://www.dudley.gov.uk/community-and-living/registration-service", 
+  "url": "http:\/\/www.dudley.gov.uk\/community-and-living\/registration-service", 
   "postcode": "DY1 4EU", 
   "longlat": [
    "-2.0861323", 
@@ -1406,7 +1406,7 @@
  }, 
  {
   "name": "Sandwell Metropolitan Borough Council", 
-  "url": "http://www.laws.sandwell.gov.uk/ccm/navigation/community-and-living/life-events/", 
+  "url": "http:\/\/www.laws.sandwell.gov.uk\/ccm\/navigation\/community-and-living\/life-events\/", 
   "postcode": "B70 8RJ", 
   "longlat": [
    "-1.968381", 
@@ -1417,7 +1417,7 @@
  }, 
  {
   "name": "Solihull Metropolitan Borough Council", 
-  "url": "http://www.solihull.gov.uk/community/default.htm", 
+  "url": "http:\/\/www.solihull.gov.uk\/community\/default.htm", 
   "postcode": "B91 9RG", 
   "longlat": [
    "-1.7742959", 
@@ -1428,7 +1428,7 @@
  }, 
  {
   "name": "Walsall Metropolitan Borough Council", 
-  "url": "http://www.walsall.gov.uk/index/community_and_living.htm", 
+  "url": "http:\/\/www.walsall.gov.uk\/index\/community_and_living.htm", 
   "postcode": "WS1 1TN", 
   "longlat": [
    "-1.9812488", 
@@ -1439,7 +1439,7 @@
  }, 
  {
   "name": "Wolverhampton City Council", 
-  "url": "http://www.wolverhampton.gov.uk/community_living/life_events/", 
+  "url": "http:\/\/www.wolverhampton.gov.uk\/community_living\/life_events\/", 
   "postcode": "WV1 1RU", 
   "longlat": [
    "-2.129652", 
@@ -1450,7 +1450,7 @@
  }, 
  {
   "name": "Bradford Metropolitan District Council", 
-  "url": "http://www.bradford.gov.uk/information_and_communication/information_management/register_office/", 
+  "url": "http:\/\/www.bradford.gov.uk\/information_and_communication\/information_management\/register_office\/", 
   "postcode": "BD1 4QR", 
   "longlat": [
    "-1.7559547", 
@@ -1461,7 +1461,7 @@
  }, 
  {
   "name": "Calderdale Metropolitan Borough Council", 
-  "url": "http://www.calderdale.gov.uk/advice/life-events/register-office/certificate-fee.html", 
+  "url": "http:\/\/www.calderdale.gov.uk\/advice\/life-events\/register-office\/certificate-fee.html", 
   "postcode": "HX1 2AH", 
   "longlat": [
    "-1.8639315", 
@@ -1472,7 +1472,7 @@
  }, 
  {
   "name": "Kirklees Metropolitan Borough Council", 
-  "url": "http://www.kirklees.gov.uk/registeroffices ", 
+  "url": "http:\/\/www.kirklees.gov.uk\/registeroffices ", 
   "postcode": "HD1 2PL", 
   "longlat": [
    "-1.8672531", 
@@ -1483,7 +1483,7 @@
  }, 
  {
   "name": "Leeds City Council", 
-  "url": "http://www.leeds.gov.uk/register ", 
+  "url": "http:\/\/www.leeds.gov.uk\/register ", 
   "postcode": "LS1 3AD", 
   "longlat": [
    "-1.5452804", 
@@ -1494,7 +1494,7 @@
  }, 
  {
   "name": "Wakefield Metropolitan District Council", 
-  "url": "http://www.wakefield.gov.uk/CommunityAndLiving/Registrars/default.htm", 
+  "url": "http:\/\/www.wakefield.gov.uk\/CommunityAndLiving\/Registrars\/default.htm", 
   "postcode": "WF1 3BS", 
   "longlat": [
    "-1.4999629", 
@@ -1505,7 +1505,7 @@
  }, 
  {
   "name": "Hartlepool Borough Council", 
-  "url": "http://www.hartlepool.gov.uk/registeroffice/", 
+  "url": "http:\/\/www.hartlepool.gov.uk\/registeroffice\/", 
   "postcode": "TS24 8AY", 
   "longlat": [
    "-1.215348", 
@@ -1516,7 +1516,7 @@
  }, 
  {
   "name": "Middlesbrough Borough Council", 
-  "url": "http://www.middlesbrough.gov.uk/theme/middlesbrough/ccm/navigation/community-and-living/life-events/", 
+  "url": "http:\/\/www.middlesbrough.gov.uk\/theme\/middlesbrough\/ccm\/navigation\/community-and-living\/life-events\/", 
   "postcode": "TS1 2QQ", 
   "longlat": [
    "-1.23293", 
@@ -1527,7 +1527,7 @@
  }, 
  {
   "name": "Redcar and Cleveland Council", 
-  "url": "http://www.redcar-cleveland.gov.uk/main.nsf/Web+Full+List/83B0816617AEFD7580257059004CABE2?OpenDocument", 
+  "url": "http:\/\/www.redcar-cleveland.gov.uk\/main.nsf\/Web+Full+List\/83B0816617AEFD7580257059004CABE2?OpenDocument", 
   "postcode": "TS14 6AP", 
   "longlat": [
    "-1.0551712", 
@@ -1538,7 +1538,7 @@
  }, 
  {
   "name": "Stockton-on-Tees Borough Council", 
-  "url": "http://www.stockton.gov.uk/citizenservices/registeroffice/", 
+  "url": "http:\/\/www.stockton.gov.uk\/citizenservices\/registeroffice\/", 
   "postcode": "TS18 2AL", 
   "longlat": [
    "-1.317067", 
@@ -1549,7 +1549,7 @@
  }, 
  {
   "name": "Darlington Borough Council", 
-  "url": "http://www.darlington.gov.uk/Legal+Services/Register+Office/Register+Office.htm", 
+  "url": "http:\/\/www.darlington.gov.uk\/Legal+Services\/Register+Office\/Register+Office.htm", 
   "postcode": "DL1 5RG", 
   "longlat": [
    "-1.554999", 
@@ -1560,7 +1560,7 @@
  }, 
  {
   "name": "Halton Borough Council", 
-  "url": "http://www2.halton.gov.uk/content/communityandliving/lifeevents/registration/?a=5441", 
+  "url": "http:\/\/www2.halton.gov.uk\/content\/communityandliving\/lifeevents\/registration\/?a=5441", 
   "postcode": "WA7 5TN", 
   "longlat": [
    "-2.652161", 
@@ -1571,7 +1571,7 @@
  }, 
  {
   "name": "Warrington Borough Council", 
-  "url": "http://www.warrington.gov.uk/Adviceandbenefits/Communityadvice/registrars.aspx", 
+  "url": "http:\/\/www.warrington.gov.uk\/Adviceandbenefits\/Communityadvice\/registrars.aspx", 
   "postcode": "WA1 1JX", 
   "longlat": [
    "-2.599097", 
@@ -1582,7 +1582,7 @@
  }, 
  {
   "name": "Blackburn with Darwen Borough Council", 
-  "url": "http://www.blackburn.gov.uk/server.php?show=ConWebDoc.13973", 
+  "url": "http:\/\/www.blackburn.gov.uk\/server.php?show=ConWebDoc.13973", 
   "postcode": "BB2 1AA", 
   "longlat": [
    "-2.485653", 
@@ -1593,7 +1593,7 @@
  }, 
  {
   "name": "Blackpool Borough Council", 
-  "url": "http://www.blackpool.gov.uk/CommunityandLiving/", 
+  "url": "http:\/\/www.blackpool.gov.uk\/CommunityandLiving\/", 
   "postcode": "FY1 4AX", 
   "longlat": [
    "-3.0476", 
@@ -1604,7 +1604,7 @@
  }, 
  {
   "name": "Kingston-upon-Hull City Council", 
-  "url": "http://www.hullcc.gov.uk/portal/page?_pageid=221,52464&_dad=portal&_schema=PORTAL", 
+  "url": "http:\/\/www.hullcc.gov.uk\/portal\/page?_pageid=221,52464&_dad=portal&_schema=PORTAL", 
   "postcode": "HU1 3BY", 
   "longlat": [
    "-0.4179618", 
@@ -1615,7 +1615,7 @@
  }, 
  {
   "name": "East Riding of Yorkshire Council", 
-  "url": "http://www.eastriding.gov.uk/atoz/details.aspx?id=78", 
+  "url": "http:\/\/www.eastriding.gov.uk\/atoz\/details.aspx?id=78", 
   "postcode": "HU17 9BA", 
   "longlat": [
    "-0.4289325", 
@@ -1626,7 +1626,7 @@
  }, 
  {
   "name": "North East Lincolnshire Council", 
-  "url": "http://www.nelincs.gov.uk/Community/BirthsDeathsandMarriageRegistration/ ", 
+  "url": "http:\/\/www.nelincs.gov.uk\/Community\/BirthsDeathsandMarriageRegistration\/ ", 
   "postcode": "DN31 1HX", 
   "longlat": [
    "-0.082224", 
@@ -1637,7 +1637,7 @@
  }, 
  {
   "name": "North Lincolnshire Council", 
-  "url": "http://www.northlincs.gov.uk/NorthLincs/Communitypeopleandliving/birthsdeathsmarriageregistration/", 
+  "url": "http:\/\/www.northlincs.gov.uk\/NorthLincs\/Communitypeopleandliving\/birthsdeathsmarriageregistration\/", 
   "postcode": "DN15 7PA", 
   "longlat": [
    "-0.6538947", 
@@ -1648,7 +1648,7 @@
  }, 
  {
   "name": "York City Council", 
-  "url": "http://www.york.gov.uk/register/", 
+  "url": "http:\/\/www.york.gov.uk\/register\/", 
   "postcode": "YO30 7DA", 
   "longlat": [
    "-1.0880326", 
@@ -1659,7 +1659,7 @@
  }, 
  {
   "name": "Derby City Council", 
-  "url": "http://www.derby.gov.uk/CommunityLiving/LifeEvents/Births", 
+  "url": "http:\/\/www.derby.gov.uk\/CommunityLiving\/LifeEvents\/Births", 
   "postcode": "DE1 3AR", 
   "longlat": [
    "-1.4765107", 
@@ -1670,7 +1670,7 @@
  }, 
  {
   "name": "Leicester City Council", 
-  "url": "http://www.leicester.gov.uk/departments/page.asp?pgid=892", 
+  "url": "http:\/\/www.leicester.gov.uk\/departments\/page.asp?pgid=892", 
   "postcode": "LE1 9BG", 
   "longlat": [
    "-1.1522595", 
@@ -1681,7 +1681,7 @@
  }, 
  {
   "name": "Rutland County Council", 
-  "url": "http://www.rutnet.co.uk/pp/gold/viewgold.asp?id=847", 
+  "url": "http:\/\/www.rutnet.co.uk\/pp\/gold\/viewgold.asp?id=847", 
   "postcode": "LE15 6HY", 
   "longlat": [
    "-0.7239156", 
@@ -1692,7 +1692,7 @@
  }, 
  {
   "name": "Nottingham City Council", 
-  "url": "http://www.nottinghamcity.gov.uk/index.aspx?articleid=2341 ", 
+  "url": "http:\/\/www.nottinghamcity.gov.uk\/index.aspx?articleid=2341 ", 
   "postcode": "NG1 4FP", 
   "longlat": [
    "-1.1526748", 
@@ -1703,7 +1703,7 @@
  }, 
  {
   "name": "Herefordshire Council", 
-  "url": "http://www.herefordshire.gov.uk/community_and_living/life_events/1298.asp", 
+  "url": "http:\/\/www.herefordshire.gov.uk\/community_and_living\/life_events\/1298.asp", 
   "postcode": "HR1 2PJ", 
   "longlat": [
    "-2.706212", 
@@ -1714,7 +1714,7 @@
  }, 
  {
   "name": "Telford & Wrekin Council", 
-  "url": "http://www.telford.gov.uk/Community+living/Births/", 
+  "url": "http:\/\/www.telford.gov.uk\/Community+living\/Births\/", 
   "postcode": "TF1 1HB", 
   "longlat": [
    "-2.449284", 
@@ -1725,7 +1725,7 @@
  }, 
  {
   "name": "Stoke-on-Trent City Council", 
-  "url": "http://www.stoke.gov.uk/ccm/navigation/community--people-and-living/births--deaths--marriages-and-citizenship/registration-births-and-deaths/", 
+  "url": "http:\/\/www.stoke.gov.uk\/ccm\/navigation\/community--people-and-living\/births--deaths--marriages-and-citizenship\/registration-births-and-deaths\/", 
   "postcode": "ST1 1QQ", 
   "longlat": [
    "-2.1762106", 
@@ -1736,7 +1736,7 @@
  }, 
  {
   "name": "Bath & North East Somerset Council", 
-  "url": "http://www.bathnes.gov.uk/BathNES/communityandliving/localoffices.htm", 
+  "url": "http:\/\/www.bathnes.gov.uk\/BathNES\/communityandliving\/localoffices.htm", 
   "postcode": "BA1 5AW", 
   "longlat": [
    "-2.35879", 
@@ -1747,7 +1747,7 @@
  }, 
  {
   "name": "Bristol City Council", 
-  "url": "http://www.bristol-city.gov.uk/ccm/content/Community-Living/Marriages/register-office-births-marriages-and-deaths.en", 
+  "url": "http:\/\/www.bristol-city.gov.uk\/ccm\/content\/Community-Living\/Marriages\/register-office-births-marriages-and-deaths.en", 
   "postcode": "BS1 1JG", 
   "longlat": [
    "-2.5941523", 
@@ -1758,7 +1758,7 @@
  }, 
  {
   "name": "North Somerset District Council", 
-  "url": "http://www.n-somerset.gov.uk/Community/Births+deaths+marriages+and+life+events/", 
+  "url": "http:\/\/www.n-somerset.gov.uk\/Community\/Births+deaths+marriages+and+life+events\/", 
   "postcode": "BS23 1PG", 
   "longlat": [
    "-2.9727645", 
@@ -1769,7 +1769,7 @@
  }, 
  {
   "name": "South Gloucestershire Council", 
-  "url": "http://www.southglos.gov.uk/Communities/BirthDeathMarriage/", 
+  "url": "http:\/\/www.southglos.gov.uk\/Communities\/BirthDeathMarriage\/", 
   "postcode": "BS35 1HF", 
   "longlat": [
    "-2.527968", 
@@ -1780,7 +1780,7 @@
  }, 
  {
   "name": "Plymouth City Council", 
-  "url": "http://www.plymouth.gov.uk/homepage/yourcouncil/community,_people_and_living/registeroffice.htm ", 
+  "url": "http:\/\/www.plymouth.gov.uk\/homepage\/yourcouncil\/community,_people_and_living\/registeroffice.htm ", 
   "postcode": "PL1 2QD", 
   "longlat": [
    "-4.143678", 
@@ -1791,7 +1791,7 @@
  }, 
  {
   "name": "Torbay Council", 
-  "url": "http://www.torbay.gov.uk/register-office", 
+  "url": "http:\/\/www.torbay.gov.uk\/register-office", 
   "postcode": "TQ3 2TE", 
   "longlat": [
    "-3.567738", 
@@ -1802,7 +1802,7 @@
  }, 
  {
   "name": "Bournemouth Borough Council", 
-  "url": "http://www.bournemouth.gov.uk/Residents/births/default.asp", 
+  "url": "http:\/\/www.bournemouth.gov.uk\/Residents\/births\/default.asp", 
   "postcode": "BH2 6DY", 
   "longlat": [
    "-1.882843", 
@@ -1813,7 +1813,7 @@
  }, 
  {
   "name": "Borough of Poole", 
-  "url": "http://www.boroughofpoole.com/go.php?structureID=categories&ref=C464833988B297", 
+  "url": "http:\/\/www.boroughofpoole.com\/go.php?structureID=categories&ref=C464833988B297", 
   "postcode": "BH15 1NP", 
   "longlat": [
    "-1.987478", 
@@ -1824,7 +1824,7 @@
  }, 
  {
   "name": "Swindon Borough Council", 
-  "url": "http://www.swindon.gov.uk/publicservices/public-registration/community-registrationopeningtimes.htm ", 
+  "url": "http:\/\/www.swindon.gov.uk\/publicservices\/public-registration\/community-registrationopeningtimes.htm ", 
   "postcode": "SN1 1SQ", 
   "longlat": [
    "-1.783021", 
@@ -1835,7 +1835,7 @@
  }, 
  {
   "name": "Peterborough City Council", 
-  "url": "http://www.peterborough.gov.uk/reg", 
+  "url": "http:\/\/www.peterborough.gov.uk\/reg", 
   "postcode": "PE3 6AB", 
   "longlat": [
    "-0.2522056", 
@@ -1846,7 +1846,7 @@
  }, 
  {
   "name": "Luton Borough Council", 
-  "url": "http://www.luton.gov.uk/internet/community_and_living/life_events", 
+  "url": "http:\/\/www.luton.gov.uk\/internet\/community_and_living\/life_events", 
   "postcode": "LU1 2BJ", 
   "longlat": [
    "-0.5269587", 
@@ -1857,7 +1857,7 @@
  }, 
  {
   "name": "Southend-on-Sea Borough Council", 
-  "url": "http://www.southend.gov.uk/content.asp?section=575", 
+  "url": "http:\/\/www.southend.gov.uk\/content.asp?section=575", 
   "postcode": "SS2 6ER", 
   "longlat": [
    "0.70877", 
@@ -1868,7 +1868,7 @@
  }, 
  {
   "name": "Thurrock Council", 
-  "url": "http://www.thurrock.gov.uk/legal/register/ ", 
+  "url": "http:\/\/www.thurrock.gov.uk\/legal\/register\/ ", 
   "postcode": "RM17 5DX", 
   "longlat": [
    "0.327392", 
@@ -1879,7 +1879,7 @@
  }, 
  {
   "name": "Medway Council", 
-  "url": "http://www.medway.gov.uk/index/community/registeroffice.htm", 
+  "url": "http:\/\/www.medway.gov.uk\/index\/community\/registeroffice.htm", 
   "postcode": "ME1 1LS", 
   "longlat": [
    "0.504833", 
@@ -1890,7 +1890,7 @@
  }, 
  {
   "name": "Bracknell Forest Council", 
-  "url": "http://www.bracknell-forest.gov.uk/living/liv-births-deaths-and-marriages.htm", 
+  "url": "http:\/\/www.bracknell-forest.gov.uk\/living\/liv-births-deaths-and-marriages.htm", 
   "postcode": "RG12 1AQ", 
   "longlat": [
    "-0.747297", 
@@ -1901,7 +1901,7 @@
  }, 
  {
   "name": "West Berkshire Council", 
-  "url": "http://www.westberks.gov.uk/index.aspx?articleid=4033", 
+  "url": "http:\/\/www.westberks.gov.uk\/index.aspx?articleid=4033", 
   "postcode": "RG14 2DR", 
   "longlat": [
    "-1.316481", 
@@ -1912,7 +1912,7 @@
  }, 
  {
   "name": "Reading Borough Council", 
-  "url": "http://www.reading.gov.uk/communityandliving/registrar/", 
+  "url": "http:\/\/www.reading.gov.uk\/communityandliving\/registrar\/", 
   "postcode": "RG1 7TA", 
   "longlat": [
    "-0.9805136", 
@@ -1923,7 +1923,7 @@
  }, 
  {
   "name": "Slough Borough Council", 
-  "url": "http://www.slough.gov.uk/services/797.asp", 
+  "url": "http:\/\/www.slough.gov.uk\/services\/797.asp", 
   "postcode": "SL1 4UT", 
   "longlat": [
    "-0.6153254", 
@@ -1934,7 +1934,7 @@
  }, 
  {
   "name": "Royal Borough of Windsor and Maidenhead", 
-  "url": "http://www.rbwm.gov.uk/community_living.htm", 
+  "url": "http:\/\/www.rbwm.gov.uk\/community_living.htm", 
   "postcode": "SL6 1RF", 
   "longlat": [
    "-0.718049", 
@@ -1945,7 +1945,7 @@
  }, 
  {
   "name": "Wokingham District Council", 
-  "url": "http://www.wokingham.gov.uk/community-living/births-deaths-and-marriages", 
+  "url": "http:\/\/www.wokingham.gov.uk\/community-living\/births-deaths-and-marriages", 
   "postcode": "RG41 1RJ", 
   "longlat": [
    "-0.851979", 
@@ -1956,7 +1956,7 @@
  }, 
  {
   "name": "Milton Keynes", 
-  "url": "http://www.mkweb.co.uk/registrars/home.asp ", 
+  "url": "http:\/\/www.mkweb.co.uk\/registrars\/home.asp ", 
   "postcode": "MK2 2BE", 
   "longlat": [
    "-0.717362", 
@@ -1967,7 +1967,7 @@
  }, 
  {
   "name": "Brighton & Hove City Council", 
-  "url": "http://www.brighton-hove.gov.uk/site01.cfm?request=b1113986", 
+  "url": "http:\/\/www.brighton-hove.gov.uk\/site01.cfm?request=b1113986", 
   "postcode": "BN1 1JA", 
   "longlat": [
    "-0.139581", 
@@ -1978,7 +1978,7 @@
  }, 
  {
   "name": "Portsmouth City Council", 
-  "url": "http://www.portsmouth.gov.uk/living/22.html", 
+  "url": "http:\/\/www.portsmouth.gov.uk\/living\/22.html", 
   "postcode": "PO1 3AF", 
   "longlat": [
    "-1.098706", 
@@ -1989,7 +1989,7 @@
  }, 
  {
   "name": "Southampton City Council", 
-  "url": "http://www.southampton.gov.uk/people/lifeevents/default.asp#0", 
+  "url": "http:\/\/www.southampton.gov.uk\/people\/lifeevents\/default.asp#0", 
   "postcode": "SO14 2LX", 
   "longlat": [
    "-1.4062895", 
@@ -2000,7 +2000,7 @@
  }, 
  {
   "name": "Isle of Wight Council", 
-  "url": "http://www.iwight.com/living_here/births_deaths_marriages/default.asp", 
+  "url": "http:\/\/www.iwight.com\/living_here\/births_deaths_marriages\/default.asp", 
   "postcode": "PO31 8AZ", 
   "longlat": [
    "-1.304877", 
@@ -2011,7 +2011,7 @@
  }, 
  {
   "name": "Isle of Anglesey County Council", 
-  "url": "http://www.anglesey.gov.uk/doc.asp?cat=2573", 
+  "url": "http:\/\/www.anglesey.gov.uk\/doc.asp?cat=2573", 
   "postcode": "LL77 7TW", 
   "longlat": [
    "-4.3123848", 
@@ -2022,7 +2022,7 @@
  }, 
  {
   "name": "Gwynedd County Council", 
-  "url": "http://www.gwynedd.gov.uk/gwy_doc.asp?cat=3440&doc=13090&Language=1", 
+  "url": "http:\/\/www.gwynedd.gov.uk\/gwy_doc.asp?cat=3440&doc=13090&Language=1", 
   "postcode": "LL55 1BN", 
   "longlat": [
    "-4.268737", 
@@ -2033,7 +2033,7 @@
  }, 
  {
   "name": "Conwy County Borough Council", 
-  "url": "http://www.conwy.gov.uk/dratozdetail.asp?cat=112&doc=1119&azkey=r&offset=10&azid=403 ", 
+  "url": "http:\/\/www.conwy.gov.uk\/dratozdetail.asp?cat=112&doc=1119&azkey=r&offset=10&azid=403 ", 
   "postcode": "LL30 2UP", 
   "longlat": [
    "-3.83287", 
@@ -2044,7 +2044,7 @@
  }, 
  {
   "name": "Denbighshire County Council", 
-  "url": "http://www.denbighshire.gov.uk/en-gb/DNAP-74ZLKD", 
+  "url": "http:\/\/www.denbighshire.gov.uk\/en-gb\/DNAP-74ZLKD", 
   "postcode": "LL18 2AF", 
   "longlat": [
    "-3.49318", 
@@ -2055,7 +2055,7 @@
  }, 
  {
   "name": "Flintshire County Council", 
-  "url": "http://www.flintshire.gov.uk/wps/portal/english/services?WCM_GLOBAL_CONTEXT=/Web%20Content/flintshire/english/services/100003/200067/llwynegrin+hall+register+office", 
+  "url": "http:\/\/www.flintshire.gov.uk\/wps\/portal\/english\/services?WCM_GLOBAL_CONTEXT=\/Web%20Content\/flintshire\/english\/services\/100003\/200067\/llwynegrin+hall+register+office", 
   "postcode": "CH7 6NW", 
   "longlat": [
    "-3.1423182", 
@@ -2066,7 +2066,7 @@
  }, 
  {
   "name": "Wrexham County Borough Council", 
-  "url": "http://www.wrexham.gov.uk/english/life_events/bereavement/register_office.htm ", 
+  "url": "http:\/\/www.wrexham.gov.uk\/english\/life_events\/bereavement\/register_office.htm ", 
   "postcode": "LL11 1NF", 
   "longlat": [
    "-2.9916733", 
@@ -2077,7 +2077,7 @@
  }, 
  {
   "name": "Powys County Council", 
-  "url": "http://www.powys.gov.uk/index.php?id=39&L=0", 
+  "url": "http:\/\/www.powys.gov.uk\/index.php?id=39&L=0", 
   "postcode": "LD1 5LG", 
   "longlat": [
    "-3.3736821", 
@@ -2088,7 +2088,7 @@
  }, 
  {
   "name": "Ceredigion County Council", 
-  "url": "http://www.ceredigion.gov.uk/index.cfm?articleid=116&detailid=671", 
+  "url": "http:\/\/www.ceredigion.gov.uk\/index.cfm?articleid=116&detailid=671", 
   "postcode": "SA46 0PA", 
   "longlat": [
    "-4.0837984", 
@@ -2099,7 +2099,7 @@
  }, 
  {
   "name": "Pembrokeshire County Council", 
-  "url": "http://www.pembrokeshire.gov.uk/content.asp?nav=&id=6038&Positioning_Article_ID=&Language=&parent_directory_id=516&d1=0 ", 
+  "url": "http:\/\/www.pembrokeshire.gov.uk\/content.asp?nav=&id=6038&Positioning_Article_ID=&Language=&parent_directory_id=516&d1=0 ", 
   "postcode": "SA61 1SS", 
   "longlat": [
    "-4.97222", 
@@ -2110,7 +2110,7 @@
  }, 
  {
   "name": "Carmarthenshire County Council", 
-  "url": "http://www.carmarthenshire.gov.uk/Pages/default.aspx ", 
+  "url": "http:\/\/www.carmarthenshire.gov.uk\/Pages\/default.aspx ", 
   "postcode": "SA31 1DS", 
   "longlat": [
    "-4.301997", 
@@ -2121,7 +2121,7 @@
  }, 
  {
   "name": "Swansea City and Borough Council", 
-  "url": "http://www.swansea.gov.uk/index.cfm?articleid=1458&contactid=2150 ", 
+  "url": "http:\/\/www.swansea.gov.uk\/index.cfm?articleid=1458&contactid=2150 ", 
   "postcode": "SA1 3SN", 
   "longlat": [
    "-3.9506007", 
@@ -2132,7 +2132,7 @@
  }, 
  {
   "name": "Neath Port Talbot County Borough Council", 
-  "url": "http://www.npt.gov.uk/registrars/index.cfm", 
+  "url": "http:\/\/www.npt.gov.uk\/registrars\/index.cfm", 
   "postcode": "SA11 1HL", 
   "longlat": [
    "-3.8041219", 
@@ -2143,7 +2143,7 @@
  }, 
  {
   "name": "Bridgend County Borough Council", 
-  "url": "http://www.bridgend.gov.uk/Web1/groups/public/documents/services/000856.hcsp#TopOfPage", 
+  "url": "http:\/\/www.bridgend.gov.uk\/Web1\/groups\/public\/documents\/services\/000856.hcsp#TopOfPage", 
   "postcode": "CF31 4WB", 
   "longlat": [
    "-3.580408", 
@@ -2154,7 +2154,7 @@
  }, 
  {
   "name": "Vale of Glamorgan Council", 
-  "url": "http://www.valeofglamorgan.gov.uk/living/life_in_the_community/registry_-_life_events.aspx", 
+  "url": "http:\/\/www.valeofglamorgan.gov.uk\/living\/life_in_the_community\/registry_-_life_events.aspx", 
   "postcode": "CF63 4RU", 
   "longlat": [
    "-3.2621815", 
@@ -2165,7 +2165,7 @@
  }, 
  {
   "name": "Rhondda Cynon Taff County Borough Council", 
-  "url": "http://www.rhondda-cynon-taff.gov.uk/stellent/groups/public/documents/hcst/landing_page.hcst?lang=en&textonly=false&xNodeID=100003", 
+  "url": "http:\/\/www.rhondda-cynon-taff.gov.uk\/stellent\/groups\/public\/documents\/hcst\/landing_page.hcst?lang=en&textonly=false&xNodeID=100003", 
   "postcode": "CF44 7AE", 
   "longlat": [
    "-3.4450892", 
@@ -2176,7 +2176,7 @@
  }, 
  {
   "name": "Merthyr Tydfil County Borough Council", 
-  "url": "http://www.merthyr.gov.uk/Home/Local+Services/Registrars+Births+Deaths+Marriages/Contact+Us.htm", 
+  "url": "http:\/\/www.merthyr.gov.uk\/Home\/Local+Services\/Registrars+Births+Deaths+Marriages\/Contact+Us.htm", 
   "postcode": "CF47 8AT", 
   "longlat": [
    "-3.3790056", 
@@ -2187,7 +2187,7 @@
  }, 
  {
   "name": "Caerphilly County Borough Council", 
-  "url": "http://www.caerphilly.gov.uk/registration/ ", 
+  "url": "http:\/\/www.caerphilly.gov.uk\/registration\/ ", 
   "postcode": "CF82 7PG", 
   "longlat": [
    "-3.133086", 
@@ -2198,7 +2198,7 @@
  }, 
  {
   "name": "Blaenau Gwent County Borough Council", 
-  "url": "http://www.blaenau-gwent.gov.uk/community.asp", 
+  "url": "http:\/\/www.blaenau-gwent.gov.uk\/community.asp", 
   "postcode": "NP2 3DS", 
   "longlat": [
    "-3.219513", 
@@ -2209,7 +2209,7 @@
  }, 
  {
   "name": "Torfaen County Borough Council", 
-  "url": "http://www.torfaen.gov.uk/CommunityAndLiving/Home.aspx", 
+  "url": "http:\/\/www.torfaen.gov.uk\/CommunityAndLiving\/Home.aspx", 
   "postcode": "NP4 6YG", 
   "longlat": [
    "-3.05922", 
@@ -2220,7 +2220,7 @@
  }, 
  {
   "name": "Monmouthshire County Council", 
-  "url": "http://www.monmouthshire.gov.uk/Monmouth/English/Community_and_Living/Community/Births/ ", 
+  "url": "http:\/\/www.monmouthshire.gov.uk\/Monmouth\/English\/Community_and_Living\/Community\/Births\/ ", 
   "postcode": "NP7 5LE", 
   "longlat": [
    "-3.010304", 
@@ -2231,7 +2231,7 @@
  }, 
  {
   "name": "Newport City Council", 
-  "url": "http://www.newport.gov.uk/_dc/index.cfm?fuseaction=registrars.homepage", 
+  "url": "http:\/\/www.newport.gov.uk\/_dc\/index.cfm?fuseaction=registrars.homepage", 
   "postcode": "NP20 4PH", 
   "longlat": [
    "-3.0029977", 
@@ -2242,7 +2242,7 @@
  }, 
  {
   "name": "Cardiff Council", 
-  "url": "http://www.cardiff.gov.uk/content.asp?Parent_Directory_id=2865&nav=2867,2903,2915,4451", 
+  "url": "http:\/\/www.cardiff.gov.uk\/content.asp?Parent_Directory_id=2865&nav=2867,2903,2915,4451", 
   "postcode": "CF10 3LU", 
   "longlat": [
    "-3.1767818", 
